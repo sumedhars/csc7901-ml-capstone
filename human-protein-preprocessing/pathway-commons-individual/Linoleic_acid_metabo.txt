@@ -1,0 +1,3 @@
+﻿AKR1B10	controls-production-of	chebi:68947
+chebi:34154	consumption-controlled-by	AKR1B10
+chebi:34154	used-to-produce	chebi:68947
