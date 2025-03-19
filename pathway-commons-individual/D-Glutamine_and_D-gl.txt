@@ -1,0 +1,17 @@
+﻿GLS	catalysis-precedes	GLUD2
+GLS	controls-production-of	chebi:16015
+GLS	controls-production-of	chebi:16134
+GLUD2	controls-production-of	chebi:16015
+GLUD2	controls-production-of	chebi:16134
+GLUD2	controls-production-of	chebi:30915
+chebi:16015	consumption-controlled-by	GLUD2
+chebi:16015	used-to-produce	chebi:16134
+chebi:16015	used-to-produce	chebi:30915
+chebi:16134	consumption-controlled-by	GLUD2
+chebi:16134	used-to-produce	chebi:16015
+chebi:16134	reacts-with	chebi:30915
+chebi:18050	consumption-controlled-by	GLS
+chebi:18050	used-to-produce	chebi:16015
+chebi:18050	used-to-produce	chebi:16134
+chebi:30915	consumption-controlled-by	GLUD2
+chebi:30915	used-to-produce	chebi:16015
