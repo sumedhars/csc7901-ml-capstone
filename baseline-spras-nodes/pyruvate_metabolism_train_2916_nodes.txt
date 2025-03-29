@@ -1,0 +1,17 @@
+NODEID
+GRHPR_HUMAN
+chebi:15991
+chebi:17158
+chebi:15351
+NDK6_HUMAN
+chebi:17544
+ODO1_HUMAN
+chebi:80219
+chebi:16027
+chebi:16928
+NDK7_HUMAN
+chebi:37666
+chebi:44897
+chebi:42111
+GLO2_HUMAN
+chebi:15346

@@ -1,0 +1,8 @@
+NODEID
+chebi:17482
+SPEE_HUMAN
+chebi:16610
+chebi:16283
+CBS_HUMAN
+chebi:28839
+chebi:32816

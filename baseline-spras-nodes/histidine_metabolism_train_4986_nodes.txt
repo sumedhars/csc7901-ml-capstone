@@ -1,0 +1,7 @@
+NODEID
+chebi:27398
+chebi:33704
+HUTU_HUMAN
+chebi:27384
+AL3A2_HUMAN
+chebi:16134

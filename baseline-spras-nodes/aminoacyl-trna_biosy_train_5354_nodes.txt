@@ -1,0 +1,15 @@
+NODEID
+SYCM_HUMAN
+chebi:29178
+SPCS_HUMAN
+SYLM_HUMAN
+PSTK_HUMAN
+chebi:29164
+chebi:16624
+chebi:16047
+chebi:29185
+chebi:16414
+chebi:29152
+SYEM_HUMAN
+chebi:16015
+chebi:29155

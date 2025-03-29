@@ -1,0 +1,3 @@
+NODEID
+SYIM_HUMAN
+chebi:17191

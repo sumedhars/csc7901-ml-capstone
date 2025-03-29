@@ -1,0 +1,14 @@
+NODEID
+chebi:30751
+chebi:27421
+KFA_HUMAN
+chebi:17697
+chebi:28790
+AOC1_HUMAN
+chebi:36575
+INMT_HUMAN
+chebi:29750
+chebi:16946
+chebi:17380
+chebi:16240
+chebi:16015

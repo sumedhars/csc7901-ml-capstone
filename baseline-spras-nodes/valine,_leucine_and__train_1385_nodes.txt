@@ -1,0 +1,4 @@
+NODEID
+chebi:16624
+chebi:16027
+SYLM_HUMAN

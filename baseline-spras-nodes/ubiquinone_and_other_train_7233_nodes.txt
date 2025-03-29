@@ -1,0 +1,5 @@
+NODEID
+chebi:81183
+chebi:81184
+ATTY_HUMAN
+chebi:15999

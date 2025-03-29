@@ -1,0 +1,8 @@
+NODEID
+chebi:30109
+chebi:80094
+chebi:15442
+chebi:35366
+chebi:17791
+chebi:29888
+LICH_HUMAN

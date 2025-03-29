@@ -1,0 +1,6 @@
+NODEID
+chebi:16680
+chebi:15741
+chebi:15453
+chebi:27424
+HCD2_HUMAN

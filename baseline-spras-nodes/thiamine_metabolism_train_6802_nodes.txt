@@ -1,0 +1,3 @@
+NODEID
+chebi:9532
+TPK1_HUMAN

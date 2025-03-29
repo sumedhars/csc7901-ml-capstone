@@ -1,0 +1,12 @@
+NODEID
+chebi:17732
+chebi:29265
+FMT_HUMAN
+chebi:18366
+chebi:29170
+chebi:29172
+chebi:16635
+SYRM_HUMAN
+chebi:16643
+chebi:16977
+SYAM_HUMAN

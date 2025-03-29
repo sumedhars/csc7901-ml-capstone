@@ -1,0 +1,8 @@
+NODEID
+BHMT1_HUMAN
+ATTY_HUMAN
+chebi:15641
+chebi:17561
+chebi:21260
+chebi:30915
+chebi:16208

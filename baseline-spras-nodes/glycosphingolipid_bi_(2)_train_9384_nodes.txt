@@ -1,0 +1,11 @@
+NODEID
+chebi:87990
+SIA7D_HUMAN
+chebi:15681
+chebi:27691
+SIA4A_HUMAN
+chebi:61732
+chebi:18163
+chebi:28648
+chebi:16556
+B4GN1_HUMAN

@@ -1,0 +1,15 @@
+NODEID
+chebi:17330
+chebi:16518
+chebi:80388
+TECR_HUMAN
+ACOT4_HUMAN
+chebi:80386
+chebi:80483
+chebi:17351
+chebi:65132
+chebi:15527
+chebi:63539
+chebi:18097
+chebi:28822
+chebi:15346

@@ -1,0 +1,6 @@
+NODEID
+B3GT4_HUMAN
+chebi:61732
+chebi:28648
+chebi:18216
+chebi:67119

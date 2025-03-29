@@ -1,0 +1,3 @@
+NODEID
+chebi:30831
+LDH6A_HUMAN

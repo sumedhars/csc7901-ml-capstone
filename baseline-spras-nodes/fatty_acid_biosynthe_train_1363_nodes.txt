@@ -1,0 +1,10 @@
+NODEID
+chebi:16526
+chebi:1637
+chebi:18359
+ELOV2_HUMAN
+chebi:80386
+chebi:15525
+OXSM_HUMAN
+chebi:3247
+chebi:5697

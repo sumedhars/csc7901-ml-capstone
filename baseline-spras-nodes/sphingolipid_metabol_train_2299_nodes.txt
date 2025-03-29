@@ -1,0 +1,10 @@
+NODEID
+NEUR2_HUMAN
+chebi:16526
+chebi:15339
+chebi:27499
+chebi:18318
+chebi:26836
+chebi:31488
+chebi:17985
+chebi:15346

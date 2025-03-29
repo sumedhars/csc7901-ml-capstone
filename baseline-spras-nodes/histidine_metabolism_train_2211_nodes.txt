@@ -1,0 +1,6 @@
+NODEID
+chebi:27398
+chebi:29009
+AOFB_HUMAN
+AL3A2_HUMAN
+chebi:16240

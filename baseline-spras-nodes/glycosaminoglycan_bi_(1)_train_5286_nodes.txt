@@ -1,0 +1,3 @@
+NODEID
+EXT1_HUMAN
+chebi:80007

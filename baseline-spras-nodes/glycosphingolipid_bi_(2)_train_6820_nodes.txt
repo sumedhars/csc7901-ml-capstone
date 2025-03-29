@@ -1,0 +1,6 @@
+NODEID
+BGAL_HUMAN
+chebi:28424
+chebi:28648
+chebi:18216
+SIA8A_HUMAN

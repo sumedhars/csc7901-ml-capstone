@@ -1,0 +1,8 @@
+NODEID
+chebi:33404
+BUP1_HUMAN
+AOC1_HUMAN
+chebi:15725
+chebi:18090
+chebi:16134
+chebi:15346

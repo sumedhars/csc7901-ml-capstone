@@ -1,0 +1,13 @@
+NODEID
+chebi:16067
+chebi:17816
+chebi:17283
+P3C2G_HUMAN
+chebi:28858
+INPP_HUMAN
+MINP1_HUMAN
+chebi:16595
+chebi:17526
+chebi:16152
+chebi:16851
+chebi:16749

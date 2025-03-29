@@ -1,0 +1,14 @@
+NODEID
+chebi:37623
+3BHS7_HUMAN
+chebi:18402
+chebi:27505
+chebi:83036
+chebi:16466
+CH25H_HUMAN
+chebi:15519
+CP39A_HUMAN
+chebi:15891
+ACOX2_HUMAN
+chebi:81017
+chebi:15346

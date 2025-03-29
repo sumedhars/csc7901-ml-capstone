@@ -1,0 +1,14 @@
+NODEID
+chebi:18243
+chebi:27847
+ATTY_HUMAN
+chebi:1582
+chebi:5764
+METL6_HUMAN
+MIF_HUMAN
+chebi:18258
+chebi:81394
+chebi:28918
+TYRP1_HUMAN
+chebi:6270
+chebi:16015

@@ -1,0 +1,11 @@
+NODEID
+DCE1_HUMAN
+chebi:15741
+chebi:36926
+chebi:15517
+L2HDH_HUMAN
+chebi:30772
+ACSM5_HUMAN
+chebi:15345
+chebi:16015
+chebi:16238

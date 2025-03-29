@@ -1,0 +1,7 @@
+NODEID
+ACDSB_HUMAN
+chebi:28264
+chebi:15533
+BAAT_HUMAN
+chebi:27540
+chebi:15346

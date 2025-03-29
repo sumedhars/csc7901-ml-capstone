@@ -1,0 +1,7 @@
+NODEID
+chebi:16761
+BUP1_HUMAN
+chebi:16134
+chebi:15468
+ADPPT_HUMAN
+chebi:15346

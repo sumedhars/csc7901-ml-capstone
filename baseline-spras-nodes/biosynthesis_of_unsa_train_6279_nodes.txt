@@ -1,0 +1,14 @@
+NODEID
+chebi:15351
+ACOT2_HUMAN
+chebi:28822
+chebi:15339
+chebi:15508
+ELOV2_HUMAN
+chebi:17499
+chebi:80481
+chebi:15527
+chebi:76450
+BAAT_HUMAN
+chebi:5697
+chebi:16238

@@ -1,0 +1,6 @@
+NODEID
+chebi:2485
+chebi:16503
+chebi:16027
+chebi:16633
+PAPS2_HUMAN

@@ -1,0 +1,6 @@
+NODEID
+chebi:16137
+chebi:17709
+chebi:17980
+chebi:29281
+CHSTB_HUMAN

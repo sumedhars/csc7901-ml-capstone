@@ -1,0 +1,6 @@
+NODEID
+ECHP_HUMAN
+chebi:15741
+ACSM5_HUMAN
+chebi:15345
+chebi:15346

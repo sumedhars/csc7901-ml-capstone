@@ -1,0 +1,3 @@
+NODEID
+chebi:27413
+GGT5_HUMAN

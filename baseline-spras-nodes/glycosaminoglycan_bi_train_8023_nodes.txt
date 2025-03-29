@@ -1,0 +1,3 @@
+NODEID
+XYLT2_HUMAN
+chebi:8572

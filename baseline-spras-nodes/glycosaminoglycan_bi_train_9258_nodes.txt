@@ -1,0 +1,4 @@
+NODEID
+chebi:16082
+XYLT2_HUMAN
+chebi:17659

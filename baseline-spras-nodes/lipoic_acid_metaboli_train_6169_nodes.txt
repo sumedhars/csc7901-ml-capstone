@@ -1,0 +1,3 @@
+NODEID
+LIPT2_HUMAN
+chebi:80399

@@ -1,0 +1,17 @@
+NODEID
+chebi:9532
+chebi:16761
+AK1A1_HUMAN
+chebi:15351
+chebi:17720
+chebi:17794
+chebi:16236
+PGM2_HUMAN
+chebi:80219
+chebi:29052
+HKDC1_HUMAN
+chebi:978
+chebi:17665
+ACSA_HUMAN
+G3P_HUMAN
+chebi:32816

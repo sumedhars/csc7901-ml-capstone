@@ -1,0 +1,4 @@
+NODEID
+GLSK_HUMAN
+chebi:17053
+chebi:18050

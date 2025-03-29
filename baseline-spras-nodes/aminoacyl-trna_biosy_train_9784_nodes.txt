@@ -1,0 +1,8 @@
+NODEID
+SYCM_HUMAN
+chebi:29157
+chebi:17196
+chebi:29172
+chebi:29152
+chebi:17561
+chebi:16015

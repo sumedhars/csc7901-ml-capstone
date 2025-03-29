@@ -1,0 +1,13 @@
+NODEID
+ODBB_HUMAN
+MCCB_HUMAN
+chebi:15486
+ODO1_HUMAN
+chebi:15603
+chebi:80220
+chebi:80222
+chebi:80221
+ECHM_HUMAN
+chebi:16015
+chebi:27754
+chebi:80219

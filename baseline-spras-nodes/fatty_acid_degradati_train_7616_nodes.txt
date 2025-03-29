@@ -1,0 +1,16 @@
+NODEID
+CPT2_HUMAN
+GCDH_HUMAN
+chebi:10723
+chebi:15351
+chebi:15422
+chebi:28493
+chebi:28264
+chebi:15525
+chebi:27868
+chebi:15471
+chebi:29888
+chebi:28276
+ACADS_HUMAN
+chebi:27540
+ECHM_HUMAN

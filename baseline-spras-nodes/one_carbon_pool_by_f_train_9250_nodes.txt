@@ -1,0 +1,10 @@
+NODEID
+chebi:16761
+GLYC_HUMAN
+FMT_HUMAN
+MTHR_HUMAN
+chebi:16194
+chebi:15641
+chebi:26078
+chebi:16134
+chebi:15637

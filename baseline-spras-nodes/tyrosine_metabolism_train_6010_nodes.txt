@@ -1,0 +1,13 @@
+NODEID
+chebi:15765
+DDC_HUMAN
+ATTY_HUMAN
+chebi:15999
+chebi:43120
+DOPO_HUMAN
+chebi:16852
+chebi:18357
+chebi:28918
+chebi:16134
+chebi:17895
+AATC_HUMAN

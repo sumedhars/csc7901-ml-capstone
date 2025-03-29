@@ -1,0 +1,8 @@
+NODEID
+chebi:48153
+chebi:17719
+chebi:17363
+TALDO_HUMAN
+chebi:17665
+chebi:48928
+G6PE_HUMAN

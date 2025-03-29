@@ -1,0 +1,10 @@
+NODEID
+TRXR3_HUMAN
+chebi:82049
+chebi:64685
+chebi:33574
+chebi:15339
+TRXR2_HUMAN
+TRXR1_HUMAN
+chebi:16643
+chebi:16977

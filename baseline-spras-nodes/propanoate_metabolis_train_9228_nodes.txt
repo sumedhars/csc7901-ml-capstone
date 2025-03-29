@@ -1,0 +1,6 @@
+NODEID
+chebi:15351
+chebi:17544
+chebi:15380
+chebi:15422
+SUCB2_HUMAN

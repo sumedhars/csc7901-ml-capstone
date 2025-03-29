@@ -1,0 +1,6 @@
+NODEID
+chebi:16250
+chebi:17361
+GALT4_HUMAN
+chebi:16556
+chebi:17659

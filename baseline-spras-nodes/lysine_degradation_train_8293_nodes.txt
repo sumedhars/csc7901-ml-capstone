@@ -1,0 +1,6 @@
+NODEID
+ECHP_HUMAN
+chebi:16680
+chebi:15453
+chebi:15345
+KMT5B_HUMAN

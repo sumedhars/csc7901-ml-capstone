@@ -1,0 +1,7 @@
+NODEID
+PIGW_HUMAN
+chebi:16337
+chebi:53059
+PIGO_HUMAN
+chebi:17049
+chebi:15346

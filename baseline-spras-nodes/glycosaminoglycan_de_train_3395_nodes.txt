@@ -1,0 +1,6 @@
+NODEID
+ARSB_HUMAN
+BGAL_HUMAN
+chebi:63855
+chebi:63846
+chebi:63850

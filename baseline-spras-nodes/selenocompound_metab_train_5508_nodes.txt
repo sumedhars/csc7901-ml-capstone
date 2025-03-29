@@ -1,0 +1,11 @@
+NODEID
+chebi:16680
+chebi:64685
+chebi:15339
+chebi:9096
+INMT_HUMAN
+METH_HUMAN
+chebi:17499
+SCLY_HUMAN
+chebi:4610
+chebi:16134

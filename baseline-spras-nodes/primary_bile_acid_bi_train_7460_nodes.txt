@@ -1,0 +1,5 @@
+NODEID
+chebi:15428
+chebi:16113
+chebi:36274
+CH25H_HUMAN

@@ -1,0 +1,3 @@
+NODEID
+HUTU_HUMAN
+chebi:27384

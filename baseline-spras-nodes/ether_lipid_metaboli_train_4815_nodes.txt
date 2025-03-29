@@ -1,0 +1,11 @@
+NODEID
+chebi:17553
+chebi:15351
+chebi:17476
+chebi:73322
+chebi:15785
+chebi:15835
+PA2GA_HUMAN
+ADAS_HUMAN
+chebi:30909
+PLD1_HUMAN

@@ -1,0 +1,6 @@
+NODEID
+ELOV2_HUMAN
+chebi:15525
+chebi:326
+SAST_HUMAN
+chebi:1642

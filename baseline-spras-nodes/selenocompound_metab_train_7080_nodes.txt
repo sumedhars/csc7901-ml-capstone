@@ -1,0 +1,8 @@
+NODEID
+chebi:77012
+chebi:64685
+chebi:15339
+chebi:16503
+SCLY_HUMAN
+chebi:16134
+chebi:16977

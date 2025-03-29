@@ -1,0 +1,11 @@
+NODEID
+chebi:15768
+chebi:15772
+chebi:18332
+DOPO_HUMAN
+chebi:2003
+PERT_HUMAN
+chebi:18258
+AOFB_HUMAN
+chebi:15621
+chebi:27932

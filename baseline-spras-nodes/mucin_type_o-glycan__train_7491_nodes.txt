@@ -1,0 +1,3 @@
+NODEID
+SIA4A_HUMAN
+chebi:16556

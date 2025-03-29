@@ -1,0 +1,5 @@
+NODEID
+chebi:35366
+chebi:17855
+chebi:17815
+PLPP3_HUMAN

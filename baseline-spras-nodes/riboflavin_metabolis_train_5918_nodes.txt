@@ -1,0 +1,3 @@
+NODEID
+TYRO_HUMAN
+chebi:17594

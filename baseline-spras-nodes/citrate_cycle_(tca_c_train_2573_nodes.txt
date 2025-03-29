@@ -1,0 +1,9 @@
+NODEID
+chebi:9532
+chebi:16509
+IDH3G_HUMAN
+chebi:15380
+ODO2_HUMAN
+ODO1_HUMAN
+chebi:18012
+chebi:80403

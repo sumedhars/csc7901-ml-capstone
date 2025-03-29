@@ -1,0 +1,3 @@
+NODEID
+B3GT6_HUMAN
+chebi:17659

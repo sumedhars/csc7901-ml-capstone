@@ -1,0 +1,3 @@
+NODEID
+CP343_HUMAN
+chebi:25858

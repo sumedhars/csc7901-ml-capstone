@@ -1,0 +1,7 @@
+NODEID
+chebi:48153
+chebi:16084
+TKTL2_HUMAN
+chebi:29052
+PGM2_HUMAN
+chebi:15343

@@ -1,0 +1,3 @@
+NODEID
+DCE2_HUMAN
+chebi:16668

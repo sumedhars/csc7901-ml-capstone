@@ -1,0 +1,11 @@
+NODEID
+chebi:30744
+SUCB1_HUMAN
+chebi:15741
+chebi:1463
+PCKGM_HUMAN
+chebi:80219
+chebi:15380
+ODO2_HUMAN
+chebi:80403
+chebi:32816

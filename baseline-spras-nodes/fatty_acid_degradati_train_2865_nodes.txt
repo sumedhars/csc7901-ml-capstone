@@ -1,0 +1,15 @@
+NODEID
+chebi:15521
+ECHP_HUMAN
+chebi:17490
+ACADM_HUMAN
+chebi:28632
+HCDH_HUMAN
+chebi:28706
+ACADL_HUMAN
+chebi:15756
+chebi:15345
+chebi:27868
+chebi:28276
+chebi:27537
+chebi:15346

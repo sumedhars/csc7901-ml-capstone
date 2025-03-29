@@ -1,0 +1,8 @@
+NODEID
+KAT3_HUMAN
+chebi:64685
+METH_HUMAN
+chebi:16503
+chebi:17499
+chebi:30021
+chebi:16134

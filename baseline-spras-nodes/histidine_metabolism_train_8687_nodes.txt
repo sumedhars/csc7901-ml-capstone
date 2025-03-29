@@ -1,0 +1,8 @@
+NODEID
+chebi:16974
+METL6_HUMAN
+chebi:27398
+chebi:16027
+chebi:33704
+chebi:27596
+chebi:15971

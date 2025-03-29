@@ -1,0 +1,7 @@
+NODEID
+chebi:16753
+chebi:17677
+chebi:16526
+PANK1_HUMAN
+chebi:17561
+chebi:16134

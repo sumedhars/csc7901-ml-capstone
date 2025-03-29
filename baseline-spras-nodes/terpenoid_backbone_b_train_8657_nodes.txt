@@ -1,0 +1,5 @@
+NODEID
+chebi:26078
+DHDDS_HUMAN
+chebi:15422
+chebi:16584

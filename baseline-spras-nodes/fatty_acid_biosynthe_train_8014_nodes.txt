@@ -1,0 +1,5 @@
+NODEID
+chebi:1637
+chebi:325
+chebi:17544
+ACACA_HUMAN

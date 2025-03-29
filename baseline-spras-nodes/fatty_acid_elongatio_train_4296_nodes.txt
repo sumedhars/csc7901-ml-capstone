@@ -1,0 +1,8 @@
+NODEID
+chebi:15351
+chebi:28528
+chebi:28632
+chebi:15756
+chebi:27537
+ACSL4_HUMAN
+chebi:15346

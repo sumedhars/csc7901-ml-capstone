@@ -1,0 +1,5 @@
+NODEID
+AGAL_HUMAN
+chebi:17361
+chebi:18313
+chebi:62571

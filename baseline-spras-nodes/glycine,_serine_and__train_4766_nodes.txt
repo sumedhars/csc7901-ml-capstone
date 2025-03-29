@@ -1,0 +1,14 @@
+NODEID
+chebi:17115
+chebi:16523
+chebi:16526
+chebi:17549
+KBL_HUMAN
+AOC2_HUMAN
+chebi:30915
+chebi:15811
+chebi:16891
+chebi:16240
+SOX_HUMAN
+chebi:16977
+chebi:15346

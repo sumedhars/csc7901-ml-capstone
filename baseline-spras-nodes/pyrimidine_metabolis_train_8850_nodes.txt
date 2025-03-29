@@ -1,0 +1,17 @@
+NODEID
+chebi:17568
+chebi:16761
+chebi:17013
+chebi:17748
+chebi:28862
+TRXR1_HUMAN
+RIR1_HUMAN
+chebi:15698
+AP4A_HUMAN
+chebi:15713
+chebi:16704
+chebi:28850
+chebi:16300
+chebi:16015
+DCK_HUMAN
+CDD_HUMAN

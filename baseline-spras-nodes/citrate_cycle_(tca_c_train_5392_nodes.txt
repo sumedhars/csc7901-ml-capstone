@@ -1,0 +1,11 @@
+NODEID
+chebi:30744
+chebi:15741
+chebi:80218
+chebi:17594
+PCKGM_HUMAN
+chebi:80404
+chebi:16509
+OGDHL_HUMAN
+chebi:18012
+chebi:80219

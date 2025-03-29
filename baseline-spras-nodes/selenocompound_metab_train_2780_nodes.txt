@@ -1,0 +1,8 @@
+NODEID
+chebi:16680
+chebi:33574
+chebi:17499
+chebi:4610
+chebi:77058
+chebi:16977
+chebi:27812

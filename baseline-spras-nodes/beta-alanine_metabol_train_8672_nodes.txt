@@ -1,0 +1,9 @@
+NODEID
+chebi:15727
+chebi:27749
+DPYD_HUMAN
+chebi:15901
+chebi:16958
+AOC3_HUMAN
+chebi:15725
+DPYS_HUMAN

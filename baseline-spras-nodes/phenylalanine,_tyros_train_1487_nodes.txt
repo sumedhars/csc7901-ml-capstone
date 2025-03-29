@@ -1,0 +1,3 @@
+NODEID
+AATC_HUMAN
+chebi:30915

@@ -1,0 +1,4 @@
+NODEID
+PRDX6_HUMAN
+chebi:16562
+chebi:17295

@@ -1,0 +1,3 @@
+NODEID
+ST1A3_HUMAN
+chebi:37919

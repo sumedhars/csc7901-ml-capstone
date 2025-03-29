@@ -1,0 +1,9 @@
+NODEID
+ALDR_HUMAN
+chebi:16975
+chebi:35759
+chebi:17378
+chebi:35366
+chebi:17815
+chebi:26078
+chebi:15978

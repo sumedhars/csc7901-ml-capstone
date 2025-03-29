@@ -1,0 +1,8 @@
+NODEID
+ALDR_HUMAN
+GPAT3_HUMAN
+chebi:16975
+chebi:35759
+chebi:17754
+chebi:17815
+chebi:15978

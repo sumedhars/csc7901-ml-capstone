@@ -1,0 +1,15 @@
+NODEID
+CHDH_HUMAN
+chebi:17115
+chebi:16523
+chebi:17549
+chebi:15354
+chebi:17482
+chebi:15339
+AOC2_HUMAN
+CBS_HUMAN
+chebi:15428
+chebi:16134
+AOFA_HUMAN
+chebi:30841
+chebi:15346

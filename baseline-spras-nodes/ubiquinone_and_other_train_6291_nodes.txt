@@ -1,0 +1,7 @@
+NODEID
+HPPD_HUMAN
+chebi:81185
+chebi:27688
+chebi:15999
+chebi:44747
+chebi:30915

@@ -1,0 +1,5 @@
+NODEID
+chebi:48928
+chebi:16084
+F16P1_HUMAN
+chebi:16938

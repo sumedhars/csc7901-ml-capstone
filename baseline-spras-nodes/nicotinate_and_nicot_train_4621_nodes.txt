@@ -1,0 +1,7 @@
+NODEID
+chebi:16761
+NADK_HUMAN
+chebi:16171
+NAMPT_HUMAN
+chebi:29888
+chebi:15422

@@ -1,0 +1,7 @@
+NODEID
+chebi:33199
+chebi:15741
+chebi:15466
+chebi:17544
+chebi:15380
+AL3A2_HUMAN

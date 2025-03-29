@@ -1,0 +1,5 @@
+NODEID
+chebi:15465
+MCEE_HUMAN
+chebi:16992
+chebi:30841

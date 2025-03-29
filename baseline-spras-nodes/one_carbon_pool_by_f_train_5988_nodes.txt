@@ -1,0 +1,6 @@
+NODEID
+chebi:30751
+AL1L2_HUMAN
+chebi:15641
+chebi:16643
+C1TC_HUMAN

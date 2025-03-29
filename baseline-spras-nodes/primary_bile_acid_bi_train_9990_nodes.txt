@@ -1,0 +1,15 @@
+NODEID
+AK1C4_HUMAN
+chebi:18402
+chebi:27505
+S27A5_HUMAN
+chebi:17703
+chebi:16466
+chebi:34310
+chebi:17499
+chebi:28047
+chebi:15428
+chebi:16113
+chebi:27379
+chebi:81017
+chebi:15346

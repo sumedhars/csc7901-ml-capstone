@@ -1,0 +1,14 @@
+NODEID
+chebi:28701
+chebi:27428
+DHB4_HUMAN
+chebi:16466
+chebi:27393
+chebi:17278
+chebi:17499
+chebi:81014
+CP27A_HUMAN
+BAAT_HUMAN
+chebi:16525
+chebi:16496
+chebi:15346

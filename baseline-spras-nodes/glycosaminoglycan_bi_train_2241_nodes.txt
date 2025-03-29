@@ -1,0 +1,4 @@
+NODEID
+chebi:16082
+chebi:17659
+B3GA2_HUMAN

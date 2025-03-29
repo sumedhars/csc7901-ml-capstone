@@ -1,0 +1,10 @@
+NODEID
+chebi:16526
+ACADM_HUMAN
+BUP1_HUMAN
+chebi:16958
+chebi:16027
+chebi:27596
+chebi:15539
+AL3A2_HUMAN
+chebi:30915

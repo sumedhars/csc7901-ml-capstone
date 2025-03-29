@@ -1,0 +1,4 @@
+NODEID
+SPEE_HUMAN
+chebi:17509
+chebi:17148

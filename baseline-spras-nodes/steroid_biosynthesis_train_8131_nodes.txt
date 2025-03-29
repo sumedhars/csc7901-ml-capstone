@@ -1,0 +1,5 @@
+NODEID
+chebi:19812
+chebi:16113
+chebi:28623
+SOAT1_HUMAN

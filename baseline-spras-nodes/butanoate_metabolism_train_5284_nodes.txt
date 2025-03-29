@@ -1,0 +1,10 @@
+NODEID
+chebi:9532
+DCE1_HUMAN
+chebi:15517
+chebi:15344
+chebi:17066
+chebi:30772
+ODPB_HUMAN
+chebi:16015
+chebi:32816

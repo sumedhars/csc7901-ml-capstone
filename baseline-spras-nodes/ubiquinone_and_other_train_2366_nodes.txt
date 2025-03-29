@@ -1,0 +1,5 @@
+NODEID
+COQ7_HUMAN
+chebi:18081
+chebi:81185
+chebi:81182

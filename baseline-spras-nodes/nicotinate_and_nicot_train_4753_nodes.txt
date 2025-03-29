@@ -1,0 +1,10 @@
+NODEID
+chebi:16680
+chebi:17111
+chebi:27410
+chebi:27838
+chebi:16797
+AOXA_HUMAN
+chebi:29888
+chebi:17154
+chebi:16015

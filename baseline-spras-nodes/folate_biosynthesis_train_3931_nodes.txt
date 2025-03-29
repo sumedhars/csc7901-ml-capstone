@@ -1,0 +1,9 @@
+NODEID
+chebi:18372
+MOCS1_HUMAN
+chebi:27985
+chebi:27650
+chebi:15996
+chebi:929
+chebi:26078
+chebi:17804

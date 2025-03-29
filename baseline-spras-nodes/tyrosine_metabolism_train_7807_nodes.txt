@@ -1,0 +1,11 @@
+NODEID
+chebi:17458
+chebi:27847
+chebi:16680
+chebi:43120
+DOPO_HUMAN
+chebi:29073
+TY3H_HUMAN
+chebi:18258
+chebi:28918
+chebi:17123

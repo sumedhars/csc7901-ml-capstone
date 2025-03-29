@@ -1,0 +1,9 @@
+NODEID
+chebi:17985
+chebi:15769
+PANK4_HUMAN
+chebi:18261
+chebi:17561
+chebi:16134
+ADPPT_HUMAN
+chebi:46905

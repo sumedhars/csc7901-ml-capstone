@@ -1,0 +1,6 @@
+NODEID
+chebi:16975
+chebi:35759
+TKFC_HUMAN
+chebi:16016
+chebi:15422

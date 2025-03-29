@@ -1,0 +1,9 @@
+NODEID
+BHMT1_HUMAN
+chebi:15638
+chebi:1989
+GLYC_HUMAN
+FMT_HUMAN
+chebi:15641
+chebi:26078
+chebi:16643

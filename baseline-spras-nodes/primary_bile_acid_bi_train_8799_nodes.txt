@@ -1,0 +1,8 @@
+NODEID
+chebi:28701
+chebi:15891
+chebi:27403
+chebi:28533
+BAAT_HUMAN
+chebi:15428
+chebi:17687

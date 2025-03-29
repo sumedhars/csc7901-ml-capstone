@@ -1,0 +1,7 @@
+NODEID
+CGL_HUMAN
+KAT3_HUMAN
+chebi:64685
+chebi:16503
+chebi:17499
+chebi:16134

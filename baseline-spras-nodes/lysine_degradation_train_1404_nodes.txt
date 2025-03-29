@@ -1,0 +1,3 @@
+NODEID
+KMT5B_HUMAN
+chebi:27424

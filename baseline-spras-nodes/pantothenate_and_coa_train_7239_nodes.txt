@@ -1,0 +1,10 @@
+NODEID
+chebi:15769
+chebi:29888
+BUP1_HUMAN
+chebi:15901
+chebi:16958
+PANK4_HUMAN
+chebi:18261
+chebi:17561
+chebi:15905

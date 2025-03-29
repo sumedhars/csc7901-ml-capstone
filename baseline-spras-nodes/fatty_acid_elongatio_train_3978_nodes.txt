@@ -1,0 +1,6 @@
+NODEID
+chebi:27466
+chebi:28706
+chebi:27668
+chebi:27402
+ECHM_HUMAN

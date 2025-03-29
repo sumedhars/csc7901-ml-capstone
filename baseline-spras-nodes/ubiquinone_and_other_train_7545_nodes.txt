@@ -1,0 +1,4 @@
+NODEID
+chebi:81185
+COQ3_HUMAN
+chebi:16389

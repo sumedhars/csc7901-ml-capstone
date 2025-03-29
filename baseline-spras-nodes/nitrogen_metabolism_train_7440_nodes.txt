@@ -1,0 +1,8 @@
+NODEID
+CGL_HUMAN
+chebi:17482
+chebi:17053
+chebi:1989
+CPSM_HUMAN
+chebi:16134
+chebi:16015

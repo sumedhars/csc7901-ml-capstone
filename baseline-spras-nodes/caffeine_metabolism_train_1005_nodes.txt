@@ -1,0 +1,4 @@
+NODEID
+chebi:32643
+chebi:25858
+ARY1_HUMAN

@@ -1,0 +1,11 @@
+NODEID
+chebi:28604
+chebi:15442
+chebi:16290
+chebi:15440
+FDFT_HUMAN
+chebi:17984
+chebi:15441
+chebi:27693
+chebi:16113
+chebi:17168

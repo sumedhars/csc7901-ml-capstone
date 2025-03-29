@@ -1,0 +1,3 @@
+NODEID
+AATM_HUMAN
+chebi:15999

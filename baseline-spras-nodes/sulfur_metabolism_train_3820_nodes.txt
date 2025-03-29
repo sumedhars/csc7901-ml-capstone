@@ -1,0 +1,5 @@
+NODEID
+chebi:48854
+chebi:17985
+ST1A2_HUMAN
+chebi:26836

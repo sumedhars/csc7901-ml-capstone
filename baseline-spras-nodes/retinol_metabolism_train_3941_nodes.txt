@@ -1,0 +1,8 @@
+NODEID
+chebi:17616
+chebi:16254
+chebi:17898
+DHRS3_HUMAN
+AWAT2_HUMAN
+chebi:17984
+chebi:78273

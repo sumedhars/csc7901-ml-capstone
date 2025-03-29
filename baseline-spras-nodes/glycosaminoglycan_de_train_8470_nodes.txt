@@ -1,0 +1,3 @@
+NODEID
+GALNS_HUMAN
+chebi:63850

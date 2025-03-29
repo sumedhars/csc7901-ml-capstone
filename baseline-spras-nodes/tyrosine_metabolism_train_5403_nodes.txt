@@ -1,0 +1,13 @@
+NODEID
+chebi:28111
+chebi:27847
+chebi:15768
+chebi:27978
+DOPO_HUMAN
+chebi:27852
+chebi:6277
+chebi:16830
+chebi:17123
+chebi:41941
+AOFA_HUMAN
+chebi:27932

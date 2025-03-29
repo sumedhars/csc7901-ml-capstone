@@ -1,0 +1,3 @@
+NODEID
+MDHC_HUMAN
+chebi:30797

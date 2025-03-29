@@ -1,0 +1,7 @@
+NODEID
+chebi:17677
+chebi:17992
+SUIS_HUMAN
+PFKAP_HUMAN
+chebi:17239
+chebi:4251

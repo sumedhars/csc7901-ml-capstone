@@ -1,0 +1,8 @@
+NODEID
+chebi:1639
+chebi:17544
+chebi:15525
+OXSM_HUMAN
+chebi:7725
+chebi:2393
+ACACA_HUMAN

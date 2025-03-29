@@ -1,0 +1,9 @@
+NODEID
+chebi:18243
+chebi:15765
+chebi:15772
+chebi:2003
+AOFB_HUMAN
+TYRO_HUMAN
+chebi:27932
+chebi:27406

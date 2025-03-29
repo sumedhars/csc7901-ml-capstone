@@ -1,0 +1,3 @@
+NODEID
+PLOD3_HUMAN
+chebi:17659

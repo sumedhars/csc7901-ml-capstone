@@ -1,0 +1,13 @@
+NODEID
+chebi:17283
+SYNJ2_HUMAN
+chebi:16761
+PI42A_HUMAN
+chebi:16500
+chebi:16851
+chebi:18348
+chebi:17815
+chebi:16152
+chebi:16322
+PK3CG_HUMAN
+chebi:15422

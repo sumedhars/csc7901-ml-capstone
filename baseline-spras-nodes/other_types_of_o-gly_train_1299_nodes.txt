@@ -1,0 +1,3 @@
+NODEID
+chebi:16264
+MGT5B_HUMAN

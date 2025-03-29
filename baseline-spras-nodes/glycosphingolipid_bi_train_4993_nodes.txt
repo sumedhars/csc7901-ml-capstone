@@ -1,0 +1,4 @@
+NODEID
+HEXA_HUMAN
+chebi:18313
+chebi:17659

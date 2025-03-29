@@ -1,0 +1,14 @@
+NODEID
+chebi:50571
+chebi:15351
+chebi:65131
+chebi:80388
+chebi:15514
+HACD1_HUMAN
+TECR_HUMAN
+chebi:80483
+chebi:17499
+chebi:65132
+chebi:15756
+chebi:15346
+chebi:63545

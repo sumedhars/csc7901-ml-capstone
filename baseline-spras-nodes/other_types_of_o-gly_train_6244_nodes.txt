@@ -1,0 +1,4 @@
+NODEID
+PMGT1_HUMAN
+chebi:17659
+chebi:8572

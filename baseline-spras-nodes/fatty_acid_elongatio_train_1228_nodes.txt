@@ -1,0 +1,6 @@
+NODEID
+THIM_HUMAN
+chebi:27648
+chebi:15533
+chebi:15525
+PPT1_HUMAN

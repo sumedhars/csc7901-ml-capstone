@@ -1,0 +1,4 @@
+NODEID
+DPS1_HUMAN
+chebi:27845
+chebi:16584

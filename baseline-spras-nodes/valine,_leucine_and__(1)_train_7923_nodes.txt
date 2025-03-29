@@ -1,0 +1,11 @@
+NODEID
+chebi:27821
+chebi:15344
+chebi:15486
+chebi:17499
+SCOT2_HUMAN
+chebi:15487
+AL3A2_HUMAN
+ACADS_HUMAN
+chebi:16015
+chebi:15346

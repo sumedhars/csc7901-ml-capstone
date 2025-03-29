@@ -1,0 +1,10 @@
+NODEID
+chebi:16761
+chebi:17013
+chebi:17622
+C1TM_HUMAN
+FMT_HUMAN
+chebi:27470
+chebi:26078
+chebi:15633
+chebi:15637

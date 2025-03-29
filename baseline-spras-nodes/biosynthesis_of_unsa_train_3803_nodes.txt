@@ -1,0 +1,10 @@
+NODEID
+ACOT2_HUMAN
+chebi:18359
+chebi:15508
+chebi:80483
+chebi:15525
+chebi:65132
+THIK_HUMAN
+chebi:76450
+chebi:28661

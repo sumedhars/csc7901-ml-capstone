@@ -1,0 +1,3 @@
+NODEID
+BGAL_HUMAN
+chebi:63851

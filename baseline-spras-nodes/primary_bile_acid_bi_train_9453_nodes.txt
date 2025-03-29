@@ -1,0 +1,13 @@
+NODEID
+DHB4_HUMAN
+CH25H_HUMAN
+chebi:27393
+chebi:81018
+chebi:16027
+AK1D1_HUMAN
+CP46A_HUMAN
+chebi:15519
+chebi:15428
+chebi:28477
+chebi:16113
+chebi:15422

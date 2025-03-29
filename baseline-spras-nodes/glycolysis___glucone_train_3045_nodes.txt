@@ -1,0 +1,16 @@
+NODEID
+chebi:30744
+chebi:9532
+ENOG_HUMAN
+chebi:15351
+chebi:80404
+DLDH_HUMAN
+chebi:16001
+ODP2_HUMAN
+chebi:15903
+HKDC1_HUMAN
+chebi:978
+chebi:17665
+PMGE_HUMAN
+chebi:17925
+chebi:44897

@@ -1,0 +1,5 @@
+NODEID
+chebi:16027
+chebi:18261
+chebi:16467
+DPYS_HUMAN

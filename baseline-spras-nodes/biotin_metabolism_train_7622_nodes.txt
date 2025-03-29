@@ -1,0 +1,3 @@
+NODEID
+chebi:16027
+BPL1_HUMAN

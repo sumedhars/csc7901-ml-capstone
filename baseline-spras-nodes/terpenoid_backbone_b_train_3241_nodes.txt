@@ -1,0 +1,3 @@
+NODEID
+DHDDS_HUMAN
+chebi:17407

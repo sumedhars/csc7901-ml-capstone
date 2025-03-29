@@ -1,0 +1,6 @@
+NODEID
+chebi:80097
+EBP_HUMAN
+SC5D_HUMAN
+chebi:16521
+chebi:17813

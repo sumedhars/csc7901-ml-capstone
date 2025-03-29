@@ -1,0 +1,9 @@
+NODEID
+RPIA_HUMAN
+chebi:48153
+chebi:28013
+chebi:16084
+chebi:15721
+RBSK_HUMAN
+chebi:48928
+chebi:16938

@@ -1,0 +1,10 @@
+NODEID
+SIAT9_HUMAN
+BGAL_HUMAN
+chebi:51013
+B3GT4_HUMAN
+chebi:17950
+chebi:28648
+chebi:18216
+chebi:16556
+chebi:28541

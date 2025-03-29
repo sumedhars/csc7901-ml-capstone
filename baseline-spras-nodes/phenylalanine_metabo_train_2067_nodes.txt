@@ -1,0 +1,5 @@
+NODEID
+AOFA_HUMAN
+chebi:16424
+chebi:18397
+chebi:30745

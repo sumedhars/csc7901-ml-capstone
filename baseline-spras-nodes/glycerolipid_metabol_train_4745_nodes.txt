@@ -1,0 +1,6 @@
+NODEID
+MOGT3_HUMAN
+chebi:17855
+chebi:15978
+chebi:17984
+chebi:15346

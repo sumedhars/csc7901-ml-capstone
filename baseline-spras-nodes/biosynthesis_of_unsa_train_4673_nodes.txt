@@ -1,0 +1,15 @@
+NODEID
+ACOX3_HUMAN
+chebi:80388
+chebi:15508
+chebi:15514
+TECR_HUMAN
+chebi:28364
+chebi:15530
+chebi:17499
+chebi:15525
+chebi:63539
+OXSM_HUMAN
+chebi:28661
+chebi:15843
+chebi:80480

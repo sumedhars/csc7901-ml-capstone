@@ -1,0 +1,3 @@
+NODEID
+ODPB_HUMAN
+chebi:978

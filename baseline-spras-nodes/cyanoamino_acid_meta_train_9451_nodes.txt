@@ -1,0 +1,3 @@
+NODEID
+chebi:16934
+GGT5_HUMAN

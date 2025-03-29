@@ -1,0 +1,12 @@
+NODEID
+SYSM_HUMAN
+SYTM_HUMAN
+chebi:29182
+chebi:29162
+chebi:29181
+chebi:29173
+chebi:16027
+chebi:18366
+SYRM_HUMAN
+chebi:16414
+chebi:16643

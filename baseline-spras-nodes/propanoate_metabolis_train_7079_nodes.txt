@@ -1,0 +1,6 @@
+NODEID
+chebi:15741
+chebi:15351
+SUCA_HUMAN
+ACACA_HUMAN
+chebi:15346

@@ -1,0 +1,9 @@
+NODEID
+chebi:65131
+chebi:18359
+TECR_HUMAN
+chebi:80386
+chebi:65132
+chebi:15756
+PPT1_HUMAN
+chebi:50570

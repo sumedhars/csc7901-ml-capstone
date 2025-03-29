@@ -1,0 +1,10 @@
+NODEID
+chebi:17115
+chebi:29162
+chebi:29184
+chebi:17295
+chebi:29153
+chebi:17191
+SYEM_HUMAN
+SYIM_HUMAN
+chebi:16015

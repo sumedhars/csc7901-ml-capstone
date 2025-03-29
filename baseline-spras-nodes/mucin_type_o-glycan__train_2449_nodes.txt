@@ -1,0 +1,4 @@
+NODEID
+chebi:67119
+B3GN6_HUMAN
+chebi:17659

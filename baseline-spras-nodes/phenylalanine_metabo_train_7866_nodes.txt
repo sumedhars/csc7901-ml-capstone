@@ -1,0 +1,7 @@
+NODEID
+chebi:18397
+PH4H_HUMAN
+chebi:17295
+chebi:16562
+PRDX6_HUMAN
+chebi:16134

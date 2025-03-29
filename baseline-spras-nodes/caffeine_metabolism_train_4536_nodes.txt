@@ -1,0 +1,5 @@
+NODEID
+chebi:80470
+chebi:68531
+chebi:68444
+XDH_HUMAN

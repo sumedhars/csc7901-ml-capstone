@@ -1,0 +1,8 @@
+NODEID
+chebi:16240
+AOC2_HUMAN
+chebi:16027
+chebi:29009
+chebi:27596
+chebi:16134
+AOFA_HUMAN

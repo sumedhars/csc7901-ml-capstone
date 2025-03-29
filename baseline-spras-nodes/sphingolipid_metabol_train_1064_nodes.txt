@@ -1,0 +1,11 @@
+NODEID
+chebi:16761
+KDSR_HUMAN
+chebi:16566
+chebi:16893
+chebi:31488
+chebi:17600
+SMS1_HUMAN
+CGT_HUMAN
+chebi:15422
+chebi:37550

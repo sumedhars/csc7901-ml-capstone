@@ -1,0 +1,10 @@
+NODEID
+METH_HUMAN
+ENOPH1
+chebi:17509
+chebi:15641
+chebi:15625
+chebi:16894
+chebi:50604
+chebi:16015
+chebi:21260

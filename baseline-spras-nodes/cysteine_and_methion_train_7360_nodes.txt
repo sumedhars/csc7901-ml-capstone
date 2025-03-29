@@ -1,0 +1,6 @@
+NODEID
+SPEE_HUMAN
+chebi:16610
+LDH6A_HUMAN
+chebi:15625
+chebi:16208

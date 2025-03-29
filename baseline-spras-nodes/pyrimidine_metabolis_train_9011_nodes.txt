@@ -1,0 +1,15 @@
+NODEID
+chebi:17013
+chebi:15918
+BUP1_HUMAN
+chebi:27389
+chebi:15633
+chebi:1989
+chebi:17808
+chebi:16704
+ENTP5_HUMAN
+NT5C_HUMAN
+chebi:16300
+chebi:15842
+chebi:16695
+CDD_HUMAN

@@ -1,0 +1,4 @@
+NODEID
+chebi:18372
+chebi:17804
+chebi:17001

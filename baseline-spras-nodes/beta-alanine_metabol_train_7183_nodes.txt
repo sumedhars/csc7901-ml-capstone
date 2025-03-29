@@ -1,0 +1,3 @@
+NODEID
+HIBCH_HUMAN
+chebi:27762

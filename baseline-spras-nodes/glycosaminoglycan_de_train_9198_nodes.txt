@@ -1,0 +1,7 @@
+NODEID
+chebi:63852
+ANAG_HUMAN
+chebi:65142
+GNS_HUMAN
+chebi:65143
+chebi:65144

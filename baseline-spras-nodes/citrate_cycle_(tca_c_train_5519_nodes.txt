@@ -1,0 +1,10 @@
+NODEID
+IDH3B_HUMAN
+chebi:30887
+chebi:15741
+chebi:15351
+SUCA_HUMAN
+IDHP_HUMAN
+chebi:7815
+chebi:80403
+chebi:80219

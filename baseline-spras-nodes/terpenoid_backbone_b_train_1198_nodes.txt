@@ -1,0 +1,5 @@
+NODEID
+MVD1_HUMAN
+chebi:16584
+chebi:16761
+chebi:16526
