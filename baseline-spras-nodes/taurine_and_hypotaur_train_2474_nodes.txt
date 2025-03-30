@@ -1,0 +1,4 @@
+NODEID	prize
+CSAD_HUMAN	1.0
+chebi:16668	1.0
+AEDO_HUMAN	1.0

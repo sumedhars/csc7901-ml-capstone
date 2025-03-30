@@ -1,0 +1,7 @@
+NODEID	prize
+TRXR2_HUMAN	1.0
+INMT_HUMAN	1.0
+chebi:18212	1.0
+SPS1_HUMAN	1.0
+chebi:77012	1.0
+chebi:4610	1.0

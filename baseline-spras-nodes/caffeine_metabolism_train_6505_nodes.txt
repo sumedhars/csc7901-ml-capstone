@@ -1,0 +1,4 @@
+NODEID	prize
+ARY1_HUMAN	1.0
+CP1A2_HUMAN	1.0
+chebi:32643	1.0

@@ -1,0 +1,4 @@
+NODEID	prize
+chebi:18050	1.0
+chebi:17053	1.0
+GLSK_HUMAN	1.0

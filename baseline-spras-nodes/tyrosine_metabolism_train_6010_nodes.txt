@@ -1,0 +1,13 @@
+NODEID	prize
+chebi:17895	1.0
+AATC_HUMAN	1.0
+chebi:15999	1.0
+chebi:15765	1.0
+DDC_HUMAN	1.0
+DOPO_HUMAN	1.0
+chebi:18357	1.0
+chebi:28918	1.0
+chebi:43120	1.0
+ATTY_HUMAN	1.0
+chebi:16852	1.0
+chebi:16134	1.0

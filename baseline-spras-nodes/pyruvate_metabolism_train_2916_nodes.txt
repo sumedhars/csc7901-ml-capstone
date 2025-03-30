@@ -1,0 +1,17 @@
+NODEID	prize
+chebi:16928	1.0
+chebi:15991	1.0
+NDK6_HUMAN	1.0
+chebi:37666	1.0
+chebi:17158	1.0
+ODO1_HUMAN	1.0
+chebi:15351	1.0
+GRHPR_HUMAN	1.0
+chebi:16027	1.0
+GLO2_HUMAN	1.0
+chebi:15346	1.0
+chebi:42111	1.0
+NDK7_HUMAN	1.0
+chebi:44897	1.0
+chebi:17544	1.0
+chebi:80219	1.0

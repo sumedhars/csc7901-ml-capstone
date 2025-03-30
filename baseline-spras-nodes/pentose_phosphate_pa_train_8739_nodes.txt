@@ -1,0 +1,5 @@
+NODEID	prize
+chebi:16938	1.0
+F16P1_HUMAN	1.0
+chebi:48928	1.0
+chebi:16084	1.0

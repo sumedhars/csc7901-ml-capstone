@@ -1,0 +1,13 @@
+NODEID	prize
+AOC2_HUMAN	1.0
+chebi:16015	1.0
+chebi:15428	1.0
+chebi:16467	1.0
+chebi:30915	1.0
+CGL_HUMAN	1.0
+GLYC_HUMAN	1.0
+AOFA_HUMAN	1.0
+SARDH_HUMAN	1.0
+chebi:17906	1.0
+chebi:15380	1.0
+chebi:15729	1.0

@@ -1,0 +1,8 @@
+NODEID	prize
+AL7A1_HUMAN	1.0
+chebi:17917	1.0
+chebi:16927	1.0
+TBA8_HUMAN	1.0
+chebi:15453	1.0
+AL3A2_HUMAN	1.0
+chebi:18020	1.0

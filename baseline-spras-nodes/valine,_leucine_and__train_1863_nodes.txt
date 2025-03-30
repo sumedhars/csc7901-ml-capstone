@@ -1,0 +1,3 @@
+NODEID	prize
+ODPB_HUMAN	1.0
+chebi:978	1.0

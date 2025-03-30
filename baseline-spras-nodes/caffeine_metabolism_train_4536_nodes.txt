@@ -1,0 +1,5 @@
+NODEID	prize
+chebi:80470	1.0
+XDH_HUMAN	1.0
+chebi:68531	1.0
+chebi:68444	1.0

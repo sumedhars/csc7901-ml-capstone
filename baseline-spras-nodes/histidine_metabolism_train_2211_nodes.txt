@@ -1,0 +1,6 @@
+NODEID	prize
+AOFB_HUMAN	1.0
+chebi:16240	1.0
+chebi:29009	1.0
+chebi:27398	1.0
+AL3A2_HUMAN	1.0

@@ -1,0 +1,5 @@
+NODEID	prize
+PH4H_HUMAN	1.0
+chebi:17895	1.0
+AOC2_HUMAN	1.0
+chebi:16134	1.0

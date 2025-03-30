@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:81184	1.0
+chebi:27752	1.0
+chebi:16389	1.0
+chebi:61683	1.0
+chebi:1109	1.0
+chebi:18238	1.0
+COQ3_HUMAN	1.0

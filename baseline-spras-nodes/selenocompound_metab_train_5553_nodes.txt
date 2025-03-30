@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:64685	1.0
+chebi:16643	1.0
+TRXR3_HUMAN	1.0
+chebi:15339	1.0
+TRXR1_HUMAN	1.0
+TRXR2_HUMAN	1.0
+chebi:16977	1.0
+chebi:33574	1.0
+chebi:82049	1.0

@@ -1,0 +1,9 @@
+NODEID	prize
+chebi:17378	1.0
+ALDR_HUMAN	1.0
+chebi:15978	1.0
+chebi:16975	1.0
+chebi:26078	1.0
+chebi:35366	1.0
+chebi:35759	1.0
+chebi:17815	1.0

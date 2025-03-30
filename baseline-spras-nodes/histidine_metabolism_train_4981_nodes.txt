@@ -1,0 +1,3 @@
+NODEID	prize
+HUTU_HUMAN	1.0
+chebi:27384	1.0

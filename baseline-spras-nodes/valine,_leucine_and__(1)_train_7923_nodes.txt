@@ -1,0 +1,11 @@
+NODEID	prize
+chebi:15486	1.0
+chebi:16015	1.0
+chebi:15344	1.0
+AL3A2_HUMAN	1.0
+chebi:15487	1.0
+ACADS_HUMAN	1.0
+chebi:15346	1.0
+chebi:27821	1.0
+SCOT2_HUMAN	1.0
+chebi:17499	1.0

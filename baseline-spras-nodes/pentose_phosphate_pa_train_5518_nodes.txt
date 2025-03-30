@@ -1,0 +1,9 @@
+NODEID	prize
+RBSK_HUMAN	1.0
+chebi:28013	1.0
+chebi:48928	1.0
+RPIA_HUMAN	1.0
+chebi:48153	1.0
+chebi:16938	1.0
+chebi:15721	1.0
+chebi:16084	1.0

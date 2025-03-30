@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:50604	1.0
+chebi:16015	1.0
+chebi:17509	1.0
+METH_HUMAN	1.0
+chebi:21260	1.0
+chebi:15625	1.0
+ENOPH1	1.0
+chebi:16894	1.0
+chebi:15641	1.0

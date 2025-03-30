@@ -1,0 +1,4 @@
+NODEID	prize
+chebi:18405	1.0
+PDXK_HUMAN	1.0
+chebi:16709	1.0

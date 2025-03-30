@@ -1,0 +1,5 @@
+NODEID	prize
+PCCA_HUMAN	1.0
+chebi:33199	1.0
+chebi:27976	1.0
+chebi:15466	1.0

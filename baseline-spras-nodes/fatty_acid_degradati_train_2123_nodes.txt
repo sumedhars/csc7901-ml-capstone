@@ -1,0 +1,17 @@
+NODEID	prize
+chebi:15524	1.0
+chebi:17478	1.0
+chebi:15471	1.0
+ADH1B_HUMAN	1.0
+chebi:15351	1.0
+chebi:15422	1.0
+chebi:16238	1.0
+chebi:27540	1.0
+chebi:15525	1.0
+ADH6_HUMAN	1.0
+chebi:27868	1.0
+CPT2_HUMAN	1.0
+GCDH_HUMAN	1.0
+ACDSB_HUMAN	1.0
+chebi:27668	1.0
+AL3A1_HUMAN	1.0

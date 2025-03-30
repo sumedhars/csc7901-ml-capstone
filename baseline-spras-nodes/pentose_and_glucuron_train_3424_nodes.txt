@@ -1,0 +1,8 @@
+NODEID	prize
+UD17_HUMAN	1.0
+chebi:17200	1.0
+UD19_HUMAN	1.0
+BGLR_HUMAN	1.0
+chebi:16332	1.0
+chebi:16761	1.0
+chebi:17140	1.0

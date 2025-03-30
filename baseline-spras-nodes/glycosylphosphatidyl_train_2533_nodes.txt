@@ -1,0 +1,7 @@
+NODEID	prize
+chebi:17049	1.0
+PIGW_HUMAN	1.0
+PIGO_HUMAN	1.0
+chebi:15346	1.0
+chebi:16337	1.0
+chebi:53059	1.0

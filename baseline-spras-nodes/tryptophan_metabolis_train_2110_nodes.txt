@@ -1,0 +1,14 @@
+NODEID	prize
+chebi:17380	1.0
+chebi:16015	1.0
+chebi:28790	1.0
+AOC1_HUMAN	1.0
+chebi:17697	1.0
+chebi:30751	1.0
+INMT_HUMAN	1.0
+chebi:16240	1.0
+chebi:16946	1.0
+chebi:36575	1.0
+chebi:29750	1.0
+chebi:27421	1.0
+KFA_HUMAN	1.0

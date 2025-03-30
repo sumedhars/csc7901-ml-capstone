@@ -1,0 +1,11 @@
+NODEID	prize
+chebi:16566	1.0
+chebi:16893	1.0
+CGT_HUMAN	1.0
+chebi:15422	1.0
+chebi:37550	1.0
+SMS1_HUMAN	1.0
+chebi:17600	1.0
+chebi:16761	1.0
+chebi:31488	1.0
+KDSR_HUMAN	1.0

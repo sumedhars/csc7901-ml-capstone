@@ -1,0 +1,5 @@
+NODEID	prize
+GRHPR_HUMAN	1.0
+chebi:15539	1.0
+chebi:30841	1.0
+PCCA_HUMAN	1.0

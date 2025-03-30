@@ -1,0 +1,3 @@
+NODEID	prize
+BPL1_HUMAN	1.0
+chebi:2777	1.0

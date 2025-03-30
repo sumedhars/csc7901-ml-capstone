@@ -1,0 +1,11 @@
+NODEID	prize
+chebi:50571	1.0
+chebi:16518	1.0
+ACSL4_HUMAN	1.0
+ELOV6_HUMAN	1.0
+chebi:15351	1.0
+chebi:15531	1.0
+chebi:15541	1.0
+DHB12_HUMAN	1.0
+THIK_HUMAN	1.0
+chebi:80388	1.0

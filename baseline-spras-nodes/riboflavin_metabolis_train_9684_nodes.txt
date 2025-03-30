@@ -1,0 +1,3 @@
+NODEID	prize
+chebi:17015	1.0
+PPA6_HUMAN	1.0

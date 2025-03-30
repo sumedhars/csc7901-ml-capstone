@@ -1,0 +1,4 @@
+NODEID	prize
+ENPP1_HUMAN	1.0
+chebi:16027	1.0
+chebi:16238	1.0

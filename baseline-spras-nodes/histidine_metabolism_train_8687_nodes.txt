@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:33704	1.0
+chebi:15971	1.0
+chebi:16027	1.0
+METL6_HUMAN	1.0
+chebi:27398	1.0
+chebi:27596	1.0
+chebi:16974	1.0

@@ -1,0 +1,7 @@
+NODEID	prize
+chebi:15468	1.0
+COASY_HUMAN	1.0
+ADPPT_HUMAN	1.0
+chebi:15422	1.0
+chebi:15346	1.0
+chebi:15769	1.0

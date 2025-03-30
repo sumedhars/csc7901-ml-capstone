@@ -1,0 +1,5 @@
+NODEID	prize
+chebi:27596	1.0
+GABT_HUMAN	1.0
+CNDP1_HUMAN	1.0
+chebi:18323	1.0
