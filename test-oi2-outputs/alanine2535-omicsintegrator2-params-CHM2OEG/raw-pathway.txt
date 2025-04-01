@@ -1,0 +1,33 @@
+protein1	protein2	cost	in_solution
+chebi:16027	ASNS_HUMAN	0.75	
+chebi:16027	chebi:15682	0.75	
+chebi:16027	chebi:16134	0.75	
+chebi:16027	chebi:17053	0.75	
+chebi:16027	chebi:17196	0.75	
+chebi:16027	chebi:18050	0.75	
+chebi:16027	chebi:29172	0.75	True
+CPSM_HUMAN	ASNS_HUMAN	0.75	
+CPSM_HUMAN	chebi:16134	0.75	
+CPSM_HUMAN	chebi:17672	0.75	True
+chebi:15682	chebi:17053	0.75	True
+chebi:15682	chebi:18012	0.75	True
+GLNA_HUMAN	ASNS_HUMAN	0.75	
+GLNA_HUMAN	chebi:16134	0.75	
+GLNA_HUMAN	GFPT1_HUMAN	0.75	True
+GLNA_HUMAN	chebi:18050	0.75	True
+chebi:29172	chebi:17196	0.75	True
+chebi:21547	chebi:17053	0.75	True
+chebi:18050	chebi:16134	0.75	
+chebi:18050	chebi:17053	0.75	
+chebi:18050	ASNS_HUMAN	0.75	
+chebi:18050	chebi:17196	0.75	True
+chebi:18050	chebi:17672	0.75	
+chebi:18050	GFPT1_HUMAN	0.75	
+ASNS_HUMAN	chebi:16134	0.75	
+ASNS_HUMAN	chebi:17053	0.75	
+ASNS_HUMAN	chebi:17196	0.75	True
+ASNS_HUMAN	GFPT1_HUMAN	0.75	
+chebi:16134	chebi:17053	0.75	
+chebi:16134	chebi:17196	0.75	True
+chebi:16134	chebi:17672	0.75	True
+chebi:17053	chebi:17196	0.75	True
