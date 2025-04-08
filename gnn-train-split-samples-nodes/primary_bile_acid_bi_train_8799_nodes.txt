@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:28701	1.0
+chebi:28533	1.0
+chebi:27403	1.0
+chebi:17687	1.0
+chebi:15891	1.0
+chebi:15428	1.0
+BAAT_HUMAN	1.0

@@ -1,0 +1,13 @@
+NODEID	prize
+INPP_HUMAN	1.0
+chebi:16749	1.0
+chebi:28858	1.0
+chebi:17526	1.0
+chebi:16152	1.0
+chebi:16851	1.0
+MINP1_HUMAN	1.0
+P3C2G_HUMAN	1.0
+chebi:16067	1.0
+chebi:16595	1.0
+chebi:17283	1.0
+chebi:17816	1.0

@@ -1,0 +1,5 @@
+NODEID	prize
+chebi:29174	1.0
+BCAT2_HUMAN	1.0
+SYIM_HUMAN	1.0
+chebi:15603	1.0

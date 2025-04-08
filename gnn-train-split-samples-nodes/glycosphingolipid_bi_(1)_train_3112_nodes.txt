@@ -1,0 +1,14 @@
+NODEID	prize
+FUT4_HUMAN	1.0
+chebi:17659	1.0
+chebi:17103	1.0
+chebi:62671	1.0
+chebi:61648	1.0
+BGAT_HUMAN	1.0
+chebi:61644	1.0
+FUT5_HUMAN	1.0
+FUT9_HUMAN	1.0
+chebi:142448	1.0
+chebi:62540	1.0
+chebi:90154	1.0
+B3GT5_HUMAN	1.0

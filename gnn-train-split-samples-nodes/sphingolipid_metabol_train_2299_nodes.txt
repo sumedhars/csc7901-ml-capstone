@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:15339	1.0
+chebi:16526	1.0
+NEUR2_HUMAN	1.0
+chebi:18318	1.0
+chebi:15346	1.0
+chebi:27499	1.0
+chebi:17985	1.0
+chebi:26836	1.0
+chebi:31488	1.0

@@ -1,0 +1,11 @@
+NODEID	prize
+L2HDH_HUMAN	1.0
+chebi:16015	1.0
+ACSM5_HUMAN	1.0
+chebi:15517	1.0
+chebi:30772	1.0
+DCE1_HUMAN	1.0
+chebi:16238	1.0
+chebi:36926	1.0
+chebi:15345	1.0
+chebi:15741	1.0

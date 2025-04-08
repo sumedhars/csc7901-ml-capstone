@@ -1,0 +1,5 @@
+NODEID	prize
+GGPPS_HUMAN	1.0
+chebi:16584	1.0
+chebi:15422	1.0
+chebi:16526	1.0

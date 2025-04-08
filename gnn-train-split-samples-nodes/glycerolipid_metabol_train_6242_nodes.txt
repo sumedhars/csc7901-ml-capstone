@@ -1,0 +1,5 @@
+NODEID	prize
+PLPP3_HUMAN	1.0
+chebi:35366	1.0
+chebi:17855	1.0
+chebi:17815	1.0

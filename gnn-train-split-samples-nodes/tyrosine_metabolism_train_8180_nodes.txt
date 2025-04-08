@@ -1,0 +1,9 @@
+NODEID	prize
+chebi:27932	1.0
+AOFB_HUMAN	1.0
+chebi:18243	1.0
+chebi:15765	1.0
+chebi:2003	1.0
+chebi:15772	1.0
+TYRO_HUMAN	1.0
+chebi:27406	1.0

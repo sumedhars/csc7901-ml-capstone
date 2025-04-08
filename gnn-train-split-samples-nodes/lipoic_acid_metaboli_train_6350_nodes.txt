@@ -1,0 +1,3 @@
+NODEID	prize
+chebi:55451	1.0
+chebi:13850	1.0

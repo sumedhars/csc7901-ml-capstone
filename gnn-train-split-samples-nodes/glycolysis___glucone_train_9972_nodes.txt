@@ -1,0 +1,8 @@
+NODEID	prize
+HXK2_HUMAN	1.0
+HXK4_HUMAN	1.0
+chebi:15366	1.0
+chebi:15346	1.0
+chebi:44897	1.0
+GALM_HUMAN	1.0
+chebi:16039	1.0

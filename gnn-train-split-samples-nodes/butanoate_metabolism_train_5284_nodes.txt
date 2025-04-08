@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:15344	1.0
+chebi:16015	1.0
+chebi:17066	1.0
+chebi:15517	1.0
+chebi:30772	1.0
+DCE1_HUMAN	1.0
+chebi:32816	1.0
+ODPB_HUMAN	1.0
+chebi:9532	1.0

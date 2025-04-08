@@ -1,0 +1,4 @@
+NODEID	prize
+SPEE_HUMAN	1.0
+chebi:17509	1.0
+chebi:17148	1.0

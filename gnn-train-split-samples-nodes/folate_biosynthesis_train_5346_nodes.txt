@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:27650	1.0
+chebi:16015	1.0
+SPRE_HUMAN	1.0
+chebi:28624	1.0
+DYR_HUMAN	1.0
+chebi:15633	1.0
+PTPS_HUMAN	1.0

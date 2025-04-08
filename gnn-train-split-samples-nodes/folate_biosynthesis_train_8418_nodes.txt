@@ -1,0 +1,3 @@
+NODEID	prize
+MOC2B_HUMAN	1.0
+chebi:80867	1.0
