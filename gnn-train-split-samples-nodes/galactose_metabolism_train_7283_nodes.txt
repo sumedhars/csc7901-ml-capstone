@@ -1,0 +1,7 @@
+NODEID	prize
+chebi:4251	1.0
+SUIS_HUMAN	1.0
+chebi:17992	1.0
+chebi:17677	1.0
+PFKAP_HUMAN	1.0
+chebi:17239	1.0

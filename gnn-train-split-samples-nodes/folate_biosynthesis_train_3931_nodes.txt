@@ -1,0 +1,9 @@
+NODEID	prize
+chebi:27650	1.0
+chebi:15996	1.0
+chebi:27985	1.0
+chebi:26078	1.0
+chebi:929	1.0
+chebi:17804	1.0
+chebi:18372	1.0
+MOCS1_HUMAN	1.0

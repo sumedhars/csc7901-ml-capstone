@@ -1,0 +1,5 @@
+NODEID	prize
+HUTH_HUMAN	1.0
+chebi:30831	1.0
+CPSM_HUMAN	1.0
+chebi:17482	1.0

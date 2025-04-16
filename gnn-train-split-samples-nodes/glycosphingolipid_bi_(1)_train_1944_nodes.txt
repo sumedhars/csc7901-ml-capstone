@@ -1,0 +1,16 @@
+NODEID	prize
+chebi:17659	1.0
+chebi:62671	1.0
+chebi:27718	1.0
+chebi:61610	1.0
+chebi:16556	1.0
+chebi:142448	1.0
+FUT1_HUMAN	1.0
+SIA10_HUMAN	1.0
+SIAT6_HUMAN	1.0
+chebi:62655	1.0
+chebi:61235	1.0
+chebi:28743	1.0
+SIA4C_HUMAN	1.0
+B4GT2_HUMAN	1.0
+chebi:17361	1.0

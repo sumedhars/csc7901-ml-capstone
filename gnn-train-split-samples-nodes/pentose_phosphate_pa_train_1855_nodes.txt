@@ -1,0 +1,7 @@
+NODEID	prize
+PGM2_HUMAN	1.0
+chebi:15343	1.0
+chebi:48153	1.0
+TKTL2_HUMAN	1.0
+chebi:29052	1.0
+chebi:16084	1.0

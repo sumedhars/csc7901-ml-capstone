@@ -1,0 +1,4 @@
+NODEID	prize
+chebi:63855	1.0
+HYAL1_HUMAN	1.0
+IDUA_HUMAN	1.0

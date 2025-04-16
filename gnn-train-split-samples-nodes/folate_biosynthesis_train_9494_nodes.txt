@@ -1,0 +1,7 @@
+NODEID	prize
+GCH1_HUMAN	1.0
+MOC2B_HUMAN	1.0
+chebi:80867	1.0
+chebi:929	1.0
+PTPS_HUMAN	1.0
+chebi:44074	1.0

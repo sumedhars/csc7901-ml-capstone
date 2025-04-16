@@ -1,0 +1,6 @@
+NODEID	prize
+chebi:16521	1.0
+EBP_HUMAN	1.0
+chebi:80097	1.0
+chebi:17813	1.0
+SC5D_HUMAN	1.0

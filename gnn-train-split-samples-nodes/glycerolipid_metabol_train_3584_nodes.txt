@@ -1,0 +1,6 @@
+NODEID	prize
+TKFC_HUMAN	1.0
+chebi:15422	1.0
+chebi:16016	1.0
+chebi:35759	1.0
+chebi:16975	1.0

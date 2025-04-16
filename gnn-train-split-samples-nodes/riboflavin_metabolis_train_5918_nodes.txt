@@ -1,0 +1,3 @@
+NODEID	prize
+TYRO_HUMAN	1.0
+chebi:17594	1.0

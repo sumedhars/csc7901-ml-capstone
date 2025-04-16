@@ -1,0 +1,3 @@
+NODEID	prize
+GALNS_HUMAN	1.0
+chebi:63850	1.0

@@ -1,0 +1,11 @@
+NODEID	prize
+FAS_HUMAN	1.0
+chebi:76400	1.0
+chebi:17330	1.0
+chebi:15351	1.0
+chebi:1655	1.0
+chebi:50651	1.0
+chebi:80386	1.0
+chebi:3247	1.0
+ACACA_HUMAN	1.0
+chebi:10729	1.0

@@ -1,0 +1,3 @@
+NODEID	prize
+chebi:9532	1.0
+TPK1_HUMAN	1.0

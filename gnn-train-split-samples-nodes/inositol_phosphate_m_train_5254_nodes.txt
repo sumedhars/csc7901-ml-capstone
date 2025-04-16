@@ -1,0 +1,13 @@
+NODEID	prize
+chebi:16322	1.0
+PI42A_HUMAN	1.0
+chebi:16500	1.0
+chebi:18348	1.0
+chebi:15422	1.0
+chebi:16152	1.0
+chebi:16851	1.0
+chebi:16761	1.0
+PK3CG_HUMAN	1.0
+chebi:17283	1.0
+SYNJ2_HUMAN	1.0
+chebi:17815	1.0

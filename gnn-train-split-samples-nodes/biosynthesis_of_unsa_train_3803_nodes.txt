@@ -1,0 +1,10 @@
+NODEID	prize
+ACOT2_HUMAN	1.0
+chebi:18359	1.0
+chebi:65132	1.0
+chebi:15525	1.0
+chebi:76450	1.0
+chebi:15508	1.0
+THIK_HUMAN	1.0
+chebi:28661	1.0
+chebi:80483	1.0

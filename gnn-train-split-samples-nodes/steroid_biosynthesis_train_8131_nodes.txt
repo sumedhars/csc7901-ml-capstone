@@ -1,0 +1,5 @@
+NODEID	prize
+SOAT1_HUMAN	1.0
+chebi:28623	1.0
+chebi:19812	1.0
+chebi:16113	1.0

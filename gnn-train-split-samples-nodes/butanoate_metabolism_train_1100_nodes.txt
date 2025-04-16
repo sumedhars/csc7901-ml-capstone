@@ -1,0 +1,4 @@
+NODEID	prize
+TBA8_HUMAN	1.0
+chebi:15453	1.0
+ECHP_HUMAN	1.0

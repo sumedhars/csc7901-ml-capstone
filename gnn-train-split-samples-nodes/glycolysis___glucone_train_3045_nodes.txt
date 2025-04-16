@@ -1,0 +1,16 @@
+NODEID	prize
+ENOG_HUMAN	1.0
+chebi:17665	1.0
+chebi:978	1.0
+chebi:15351	1.0
+chebi:17925	1.0
+chebi:80404	1.0
+DLDH_HUMAN	1.0
+chebi:15903	1.0
+chebi:9532	1.0
+chebi:16001	1.0
+chebi:44897	1.0
+ODP2_HUMAN	1.0
+PMGE_HUMAN	1.0
+chebi:30744	1.0
+HKDC1_HUMAN	1.0

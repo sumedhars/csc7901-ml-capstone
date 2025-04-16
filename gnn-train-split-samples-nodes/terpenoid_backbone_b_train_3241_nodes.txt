@@ -1,0 +1,3 @@
+NODEID	prize
+chebi:17407	1.0
+DHDDS_HUMAN	1.0

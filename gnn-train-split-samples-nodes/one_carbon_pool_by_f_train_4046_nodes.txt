@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:27470	1.0
+chebi:17588	1.0
+GCST_HUMAN	1.0
+TYSY_HUMAN	1.0
+chebi:15633	1.0
+BHMT1_HUMAN	1.0
+chebi:1989	1.0

@@ -1,0 +1,8 @@
+NODEID	prize
+ACSL4_HUMAN	1.0
+chebi:15351	1.0
+chebi:28528	1.0
+chebi:28632	1.0
+chebi:15346	1.0
+chebi:27537	1.0
+chebi:15756	1.0
