@@ -1,0 +1,4 @@
+Node1	Node2	Directionality
+AK1BA_HUMAN	chebi:68947	U
+chebi:34154	AK1BA_HUMAN	U
+chebi:34154	chebi:68947	U
