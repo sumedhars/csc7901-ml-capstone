@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+MGT5B_HUMAN	chebi:16264	0.4074074074074074	U
