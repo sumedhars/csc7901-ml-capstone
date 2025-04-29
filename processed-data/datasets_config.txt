@@ -371,20 +371,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: ascorbate_1853
-      node_files: ["ascorbate_and_aldara_train_1853_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: ascorbate_5955
-      node_files: ["ascorbate_and_aldara_train_5955_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: ascorbate_6755
       node_files: ["ascorbate_and_aldara_train_6755_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -394,13 +380,6 @@ datasets:
     -
       label: ascorbate_8171
       node_files: ["ascorbate_and_aldara_train_8171_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: ascorbate_8501
-      node_files: ["ascorbate_and_aldara_train_8501_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -539,20 +518,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: biotin_met_3135
-      node_files: ["biotin_metabolism_train_3135_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: biotin_met_6078
-      node_files: ["biotin_metabolism_train_6078_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: biotin_met_6989
       node_files: ["biotin_metabolism_train_6989_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -567,13 +532,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: biotin_met_7625
-      node_files: ["biotin_metabolism_train_7625_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: biotin_met_7733
       node_files: ["biotin_metabolism_train_7733_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -583,13 +541,6 @@ datasets:
     -
       label: biotin_met_8673
       node_files: ["biotin_metabolism_train_8673_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: biotin_met_9514
-      node_files: ["biotin_metabolism_train_9514_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -651,69 +602,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: butirosin_1241
-      node_files: ["butirosin_and_neomyc_train_1241_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_1721
-      node_files: ["butirosin_and_neomyc_train_1721_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_2981
-      node_files: ["butirosin_and_neomyc_train_2981_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_4135
-      node_files: ["butirosin_and_neomyc_train_4135_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_4159
-      node_files: ["butirosin_and_neomyc_train_4159_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_4999
-      node_files: ["butirosin_and_neomyc_train_4999_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_5617
-      node_files: ["butirosin_and_neomyc_train_5617_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_6864
-      node_files: ["butirosin_and_neomyc_train_6864_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: butirosin_9691
-      node_files: ["butirosin_and_neomyc_train_9691_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: caffeine_m_1005
       node_files: ["caffeine_metabolism_train_1005_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -765,13 +653,6 @@ datasets:
     -
       label: caffeine_m_8310
       node_files: ["caffeine_metabolism_train_8310_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: caffeine_m_9240
-      node_files: ["caffeine_metabolism_train_9240_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -833,27 +714,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: cyanoamino_2368
-      node_files: ["cyanoamino_acid_meta_train_2368_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: cyanoamino_2915
-      node_files: ["cyanoamino_acid_meta_train_2915_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: cyanoamino_3747
-      node_files: ["cyanoamino_acid_meta_train_3747_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: cyanoamino_5188
       node_files: ["cyanoamino_acid_meta_train_5188_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -863,20 +723,6 @@ datasets:
     -
       label: cyanoamino_7427
       node_files: ["cyanoamino_acid_meta_train_7427_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: cyanoamino_8701
-      node_files: ["cyanoamino_acid_meta_train_8701_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: cyanoamino_8714
-      node_files: ["cyanoamino_acid_meta_train_8714_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -961,104 +807,6 @@ datasets:
     -
       label: cysteine_a_9500
       node_files: ["cysteine_and_methion_train_9500_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_1815
-      node_files: ["d-arginine_and_d-orn_train_1815_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_2204
-      node_files: ["d-arginine_and_d-orn_train_2204_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_3096
-      node_files: ["d-arginine_and_d-orn_train_3096_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_3362
-      node_files: ["d-arginine_and_d-orn_train_3362_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_4827
-      node_files: ["d-arginine_and_d-orn_train_4827_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_6276
-      node_files: ["d-arginine_and_d-orn_train_6276_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_arginine_8863
-      node_files: ["d-arginine_and_d-orn_train_8863_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_3853
-      node_files: ["d-glutamine_and_d-gl_train_3853_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_6415
-      node_files: ["d-glutamine_and_d-gl_train_6415_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_6453
-      node_files: ["d-glutamine_and_d-gl_train_6453_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_6575
-      node_files: ["d-glutamine_and_d-gl_train_6575_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_7147
-      node_files: ["d-glutamine_and_d-gl_train_7147_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_9192
-      node_files: ["d-glutamine_and_d-gl_train_9192_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: d_glutamin_9381
-      node_files: ["d-glutamine_and_d-gl_train_9381_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -1206,13 +954,6 @@ datasets:
     -
       label: fatty_acid_6264
       node_files: ["fatty_acid_biosynthe_train_6264_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: fatty_acid_6304
-      node_files: ["fatty_acid_biosynthe_train_6304_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -1673,13 +1414,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: glycerolip_8006
-      node_files: ["glycerolipid_metabol_train_8006_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: glyceropho_3243
       node_files: ["glycerophospholipid__train_3243_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -1939,13 +1673,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: glycosamin_9670
-      node_files: ["glycosaminoglycan_bi_train_9670_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: glycosamin_1711
       node_files: ["glycosaminoglycan_de_train_1711_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -1955,13 +1682,6 @@ datasets:
     -
       label: glycosamin_2488
       node_files: ["glycosaminoglycan_de_train_2488_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_3162
-      node_files: ["glycosaminoglycan_de_train_3162_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2102,20 +1822,6 @@ datasets:
     -
       label: glycosphin_4181
       node_files: ["glycosphingolipid_bi_train_4181_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_5121
-      node_files: ["glycosphingolipid_bi_train_5121_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_5557
-      node_files: ["glycosphingolipid_bi_train_5557_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2303,13 +2009,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: histidine_5160
-      node_files: ["histidine_metabolism_train_5160_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: histidine_5677
       node_files: ["histidine_metabolism_train_5677_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -2394,55 +2093,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: linoleic_a_5657
-      node_files: ["linoleic_acid_metabo_train_5657_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: linoleic_a_8653
-      node_files: ["linoleic_acid_metabo_train_8653_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: linoleic_a_9139
-      node_files: ["linoleic_acid_metabo_train_9139_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: linoleic_a_9252
-      node_files: ["linoleic_acid_metabo_train_9252_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: linoleic_a_9824
-      node_files: ["linoleic_acid_metabo_train_9824_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lipoic_aci_1385
-      node_files: ["lipoic_acid_metaboli_train_1385_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lipoic_aci_5732
-      node_files: ["lipoic_acid_metaboli_train_5732_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: lipoic_aci_6169
       node_files: ["lipoic_acid_metaboli_train_6169_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -2452,13 +2102,6 @@ datasets:
     -
       label: lipoic_aci_6350
       node_files: ["lipoic_acid_metaboli_train_6350_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lipoic_aci_6521
-      node_files: ["lipoic_acid_metaboli_train_6521_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2494,48 +2137,6 @@ datasets:
     -
       label: lipoic_aci_8800
       node_files: ["lipoic_acid_metaboli_train_8800_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_2016
-      node_files: ["lysine_biosynthesis_train_2016_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_2992
-      node_files: ["lysine_biosynthesis_train_2992_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_4196
-      node_files: ["lysine_biosynthesis_train_4196_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_8442
-      node_files: ["lysine_biosynthesis_train_8442_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_8594
-      node_files: ["lysine_biosynthesis_train_8594_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: lysine_bio_9154
-      node_files: ["lysine_biosynthesis_train_9154_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2676,13 +2277,6 @@ datasets:
     -
       label: mucin_type_1207
       node_files: ["mucin_type_o-glycan__train_1207_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: mucin_type_4852
-      node_files: ["mucin_type_o-glycan__train_4852_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2968,13 +2562,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: other_type_2494
-      node_files: ["other_types_of_o-gly_train_2494_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: other_type_2893
       node_files: ["other_types_of_o-gly_train_2893_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -2991,13 +2578,6 @@ datasets:
     -
       label: other_type_6246
       node_files: ["other_types_of_o-gly_train_6246_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: other_type_6804
-      node_files: ["other_types_of_o-gly_train_6804_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -3101,13 +2681,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: pentose_an_6872
-      node_files: ["pentose_and_glucuron_train_6872_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: pentose_an_7711
       node_files: ["pentose_and_glucuron_train_7711_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -3164,43 +2737,8 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: phenylalan_2425
-      node_files: ["phenylalanine,_tyros_train_2425_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: phenylalan_2724
       node_files: ["phenylalanine,_tyros_train_2724_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_3774
-      node_files: ["phenylalanine,_tyros_train_3774_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_4519
-      node_files: ["phenylalanine,_tyros_train_4519_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_9302
-      node_files: ["phenylalanine,_tyros_train_9302_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_9535
-      node_files: ["phenylalanine,_tyros_train_9535_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -3668,13 +3206,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: riboflavin_4823
-      node_files: ["riboflavin_metabolis_train_4823_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: riboflavin_5826
       node_files: ["riboflavin_metabolis_train_5826_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -3684,13 +3215,6 @@ datasets:
     -
       label: riboflavin_5918
       node_files: ["riboflavin_metabolis_train_5918_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: riboflavin_6043
-      node_files: ["riboflavin_metabolis_train_6043_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -4032,55 +3556,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: synthesis_2073
-      node_files: ["synthesis_and_degrad_train_2073_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_2698
-      node_files: ["synthesis_and_degrad_train_2698_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_2802
-      node_files: ["synthesis_and_degrad_train_2802_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_3187
-      node_files: ["synthesis_and_degrad_train_3187_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_3351
-      node_files: ["synthesis_and_degrad_train_3351_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_5068
-      node_files: ["synthesis_and_degrad_train_5068_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: synthesis_6205
-      node_files: ["synthesis_and_degrad_train_6205_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: taurine_an_1875
       node_files: ["taurine_and_hypotaur_train_1875_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -4104,13 +3579,6 @@ datasets:
     -
       label: taurine_an_3206
       node_files: ["taurine_and_hypotaur_train_3206_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: taurine_an_4985
-      node_files: ["taurine_and_hypotaur_train_4985_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -4179,57 +3647,8 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: terpenoid_8942
-      node_files: ["terpenoid_backbone_b_train_8942_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: terpenoid_9404
       node_files: ["terpenoid_backbone_b_train_9404_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_1501
-      node_files: ["thiamine_metabolism_train_1501_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_2100
-      node_files: ["thiamine_metabolism_train_2100_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_3773
-      node_files: ["thiamine_metabolism_train_3773_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_3962
-      node_files: ["thiamine_metabolism_train_3962_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_4084
-      node_files: ["thiamine_metabolism_train_4084_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: thiamine_m_5258
-      node_files: ["thiamine_metabolism_train_5258_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -4529,13 +3948,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: vitamin_b6_1175
-      node_files: ["vitamin_b6_metabolis_train_1175_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: vitamin_b6_1544
       node_files: ["vitamin_b6_metabolis_train_1544_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -4543,29 +3955,8 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: vitamin_b6_2567
-      node_files: ["vitamin_b6_metabolis_train_2567_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: vitamin_b6_3756
       node_files: ["vitamin_b6_metabolis_train_3756_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: vitamin_b6_3761
-      node_files: ["vitamin_b6_metabolis_train_3761_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: vitamin_b6_6075
-      node_files: ["vitamin_b6_metabolis_train_6075_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -4580,13 +3971,6 @@ datasets:
     -
       label: vitamin_b6_7405
       node_files: ["vitamin_b6_metabolis_train_7405_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: vitamin_b6_7692
-      node_files: ["vitamin_b6_metabolis_train_7692_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
