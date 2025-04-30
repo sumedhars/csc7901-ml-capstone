@@ -1,0 +1,2 @@
+- takes the training samples that were part of the train split used for the GNN training
+- converted over into just node files that can be used with Oi2
