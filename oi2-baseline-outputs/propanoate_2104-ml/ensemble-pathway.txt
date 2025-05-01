@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+LDH6A_HUMAN	chebi:30831	0.5555555555555556	U
