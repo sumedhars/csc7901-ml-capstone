@@ -1,0 +1,3 @@
+Node1	Node2	Frequency	Direction
+DPS1_HUMAN	chebi:16584	0.5555555555555556	U
+chebi:16584	chebi:27845	0.5555555555555556	U

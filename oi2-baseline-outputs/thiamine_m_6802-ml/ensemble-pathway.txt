@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+TPK1_HUMAN	chebi:9532	0.5	U
