@@ -7,3 +7,11 @@ Pathway reconstruction is a crucial group of algorithms that helps us make sense
 This capstone project will explore a Graph Neural Networks (GNNs) formulation for data-driven pathway reconstruction on Human Protein-Protein Interaction (PPI) Networks. 
 - Approach: Leverage GNNs for data-driven pathway reconstruction on Human Protein-Protein Interaction networks, focusing on edge selection to define pathways.
 - Technical Framework: Formulate pathway reconstruction as an edge classification problem (Selected ∈ {0,1}) where node inclusion is determined automatically from selected edges.
+
+
+**Directory Structure:**
+- overall dataprep --> making union ppi, proc3essing pc bulk and individual pathways, 
+- gnn --> makes gnn node samples, create gnn data object, train and eval gnn
+- oi2 --> make oi2 data, oi2 config file, pruning hyperparamters
+- evaluation --> 
+
