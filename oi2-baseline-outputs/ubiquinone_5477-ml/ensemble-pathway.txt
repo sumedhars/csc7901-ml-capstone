@@ -1,0 +1,3 @@
+Node1	Node2	Frequency	Direction
+COQ5_HUMAN	chebi:27752	0.5555555555555556	U
+chebi:1109	chebi:27752	0.5555555555555556	U

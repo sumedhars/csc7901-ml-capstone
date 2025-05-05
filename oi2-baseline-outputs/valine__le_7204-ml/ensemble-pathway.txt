@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+SYIM_HUMAN	chebi:29174	0.5555555555555556	U
