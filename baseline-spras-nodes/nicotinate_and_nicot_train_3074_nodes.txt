@@ -1,10 +1,10 @@
 NODEID	prize
-chebi:16797	1.0
-AOXA_HUMAN	1.0
-chebi:15927	1.0
-chebi:17111	1.0
-chebi:16300	1.0
 NT5C_HUMAN	1.0
+chebi:16300	1.0
+chebi:17154	1.0
+chebi:15927	1.0
 PNCB_HUMAN	1.0
 CD38_HUMAN	1.0
-chebi:17154	1.0
+AOXA_HUMAN	1.0
+chebi:16797	1.0
+chebi:17111	1.0

@@ -1,11 +1,11 @@
 NODEID	prize
-chebi:73322	1.0
 PLD1_HUMAN	1.0
-chebi:15351	1.0
-chebi:17476	1.0
-PA2GA_HUMAN	1.0
-ADAS_HUMAN	1.0
 chebi:15785	1.0
+chebi:15351	1.0
 chebi:15835	1.0
+chebi:17476	1.0
 chebi:30909	1.0
+PA2GA_HUMAN	1.0
+chebi:73322	1.0
 chebi:17553	1.0
+ADAS_HUMAN	1.0

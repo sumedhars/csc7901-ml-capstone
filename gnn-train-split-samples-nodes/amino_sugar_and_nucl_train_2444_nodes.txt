@@ -1,7 +1,7 @@
 NODEID	prize
-AGM1_HUMAN	1.0
-chebi:16015	1.0
-chebi:18050	1.0
-chebi:16446	1.0
 HXK1_HUMAN	1.0
+chebi:18050	1.0
+chebi:16015	1.0
+AGM1_HUMAN	1.0
 GNA1_HUMAN	1.0
+chebi:16446	1.0

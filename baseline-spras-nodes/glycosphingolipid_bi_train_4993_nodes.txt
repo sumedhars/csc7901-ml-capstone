@@ -1,4 +1,4 @@
 NODEID	prize
+chebi:18313	1.0
 HEXA_HUMAN	1.0
 chebi:17659	1.0
-chebi:18313	1.0

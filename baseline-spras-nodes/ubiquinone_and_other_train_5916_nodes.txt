@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:15999	1.0
-chebi:18238	1.0
 ATTY_HUMAN	1.0
+chebi:18238	1.0
 COQ3_HUMAN	1.0
+chebi:15999	1.0

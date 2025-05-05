@@ -1,4 +1,0 @@
-NODEID	prize
-chebi:16624	1.0
-chebi:16027	1.0
-SYLM_HUMAN	1.0

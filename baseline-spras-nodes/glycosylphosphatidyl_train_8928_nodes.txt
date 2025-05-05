@@ -1,10 +1,10 @@
 NODEID	prize
-chebi:53056	1.0
-chebi:17049	1.0
-chebi:15366	1.0
 chebi:18035	1.0
+PIGM_HUMAN	1.0
+chebi:12194	1.0
+chebi:53056	1.0
 PIGP_HUMAN	1.0
 PIGV_HUMAN	1.0
-chebi:12194	1.0
+chebi:17049	1.0
 PIGH_HUMAN	1.0
-PIGM_HUMAN	1.0
+chebi:15366	1.0

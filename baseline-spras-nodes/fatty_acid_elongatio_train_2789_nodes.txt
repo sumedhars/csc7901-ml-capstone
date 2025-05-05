@@ -1,6 +1,6 @@
 NODEID	prize
-ACSL4_HUMAN	1.0
 ACOT2_HUMAN	1.0
-chebi:15517	1.0
 chebi:15346	1.0
 chebi:28264	1.0
+chebi:15517	1.0
+ACSL4_HUMAN	1.0

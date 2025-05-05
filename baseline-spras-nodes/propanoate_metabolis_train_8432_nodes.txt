@@ -1,5 +1,5 @@
 NODEID	prize
 SUCA_HUMAN	1.0
 MCEE_HUMAN	1.0
-chebi:15741	1.0
 chebi:15465	1.0
+chebi:15741	1.0

@@ -1,6 +1,0 @@
-NODEID	prize
-ALG2_HUMAN	1.0
-chebi:15820	1.0
-chebi:53742	1.0
-ALG1_HUMAN	1.0
-chebi:28067	1.0

@@ -1,0 +1,4 @@
+NODEID	prize
+PMGT1_HUMAN	1.0
+chebi:8572	1.0
+chebi:17659	1.0

@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:17659	1.0
-chebi:8572	1.0
-chebi:17200	1.0
 B3GA2_HUMAN	1.0
+chebi:8572	1.0
+chebi:17659	1.0
+chebi:17200	1.0

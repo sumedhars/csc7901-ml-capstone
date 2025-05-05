@@ -1,7 +1,7 @@
 NODEID	prize
-chebi:33704	1.0
+AL3A2_HUMAN	1.0
+chebi:27384	1.0
 chebi:27398	1.0
 HUTU_HUMAN	1.0
-chebi:27384	1.0
-AL3A2_HUMAN	1.0
+chebi:33704	1.0
 chebi:16134	1.0

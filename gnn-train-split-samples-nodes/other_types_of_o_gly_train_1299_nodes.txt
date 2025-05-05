@@ -1,0 +1,3 @@
+NODEID	prize
+chebi:16264	1.0
+MGT5B_HUMAN	1.0

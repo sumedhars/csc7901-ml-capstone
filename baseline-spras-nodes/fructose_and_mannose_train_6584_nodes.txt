@@ -1,8 +1,8 @@
 NODEID	prize
-MPI_HUMAN	1.0
 chebi:28013	1.0
 chebi:15820	1.0
+MPI_HUMAN	1.0
 chebi:16108	1.0
-chebi:16955	1.0
 HKDC1_HUMAN	1.0
 MTMR7_HUMAN	1.0
+chebi:16955	1.0

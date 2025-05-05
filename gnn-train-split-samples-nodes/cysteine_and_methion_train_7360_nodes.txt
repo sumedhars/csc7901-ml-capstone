@@ -1,6 +1,6 @@
 NODEID	prize
-chebi:16208	1.0
 chebi:15625	1.0
-SPEE_HUMAN	1.0
 chebi:16610	1.0
+chebi:16208	1.0
 LDH6A_HUMAN	1.0
+SPEE_HUMAN	1.0

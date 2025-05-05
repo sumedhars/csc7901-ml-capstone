@@ -1,6 +1,0 @@
-NODEID	prize
-chebi:67119	1.0
-chebi:28648	1.0
-chebi:18216	1.0
-chebi:61732	1.0
-B3GT4_HUMAN	1.0

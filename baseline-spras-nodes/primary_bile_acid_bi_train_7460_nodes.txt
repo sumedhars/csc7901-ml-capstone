@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:15428	1.0
-CH25H_HUMAN	1.0
 chebi:36274	1.0
+CH25H_HUMAN	1.0
+chebi:15428	1.0
 chebi:16113	1.0

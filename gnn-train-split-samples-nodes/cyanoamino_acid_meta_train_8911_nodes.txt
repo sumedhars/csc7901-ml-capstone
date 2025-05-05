@@ -1,3 +1,3 @@
 NODEID	prize
-chebi:16015	1.0
 GGT5_HUMAN	1.0
+chebi:16015	1.0

@@ -1,8 +1,8 @@
 NODEID	prize
-chebi:15533	1.0
-ACOT2_HUMAN	1.0
-chebi:15517	1.0
-chebi:15351	1.0
 chebi:15525	1.0
-chebi:28264	1.0
 chebi:15756	1.0
+ACOT2_HUMAN	1.0
+chebi:15351	1.0
+chebi:28264	1.0
+chebi:15517	1.0
+chebi:15533	1.0

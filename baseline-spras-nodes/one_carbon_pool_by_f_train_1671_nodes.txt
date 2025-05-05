@@ -1,10 +1,10 @@
 NODEID	prize
-chebi:15637	1.0
-chebi:17013	1.0
-FMT_HUMAN	1.0
-C1TM_HUMAN	1.0
-chebi:27470	1.0
 chebi:17622	1.0
+chebi:15637	1.0
 chebi:16761	1.0
-chebi:26078	1.0
 chebi:15633	1.0
+C1TM_HUMAN	1.0
+chebi:17013	1.0
+chebi:26078	1.0
+chebi:27470	1.0
+FMT_HUMAN	1.0

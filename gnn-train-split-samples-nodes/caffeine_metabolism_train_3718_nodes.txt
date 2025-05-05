@@ -1,4 +1,4 @@
 NODEID	prize
-chebi:25858	1.0
 ARY2_HUMAN	1.0
+chebi:25858	1.0
 chebi:68444	1.0

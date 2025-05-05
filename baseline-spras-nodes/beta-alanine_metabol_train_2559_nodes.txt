@@ -1,8 +1,0 @@
-NODEID	prize
-BUP1_HUMAN	1.0
-AOC1_HUMAN	1.0
-chebi:15725	1.0
-chebi:18090	1.0
-chebi:33404	1.0
-chebi:15346	1.0
-chebi:16134	1.0

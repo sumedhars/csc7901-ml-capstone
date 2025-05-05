@@ -1,9 +1,9 @@
 NODEID	prize
-chebi:29107	1.0
-chebi:16521	1.0
-chebi:28113	1.0
-chebi:80094	1.0
-CP27B_HUMAN	1.0
-CP2R1_HUMAN	1.0
-chebi:15442	1.0
 FDFT_HUMAN	1.0
+chebi:80094	1.0
+chebi:28113	1.0
+chebi:16521	1.0
+chebi:15442	1.0
+CP27B_HUMAN	1.0
+chebi:29107	1.0
+CP2R1_HUMAN	1.0

@@ -1,9 +1,9 @@
 NODEID	prize
-MTD2L_HUMAN	1.0
-chebi:15637	1.0
 MTHFS_HUMAN	1.0
-chebi:18381	1.0
-chebi:30751	1.0
-chebi:18349	1.0
+chebi:15637	1.0
 PUR2_HUMAN	1.0
 chebi:17119	1.0
+chebi:30751	1.0
+MTD2L_HUMAN	1.0
+chebi:18381	1.0
+chebi:18349	1.0

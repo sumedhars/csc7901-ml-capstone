@@ -1,6 +1,6 @@
 NODEID	prize
-SUCA_HUMAN	1.0
+chebi:15741	1.0
 chebi:15351	1.0
 chebi:15346	1.0
-chebi:15741	1.0
+SUCA_HUMAN	1.0
 ACACA_HUMAN	1.0

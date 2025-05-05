@@ -1,9 +1,9 @@
 NODEID	prize
-chebi:50570	1.0
-TECR_HUMAN	1.0
 PPT1_HUMAN	1.0
-chebi:18359	1.0
 chebi:65132	1.0
+chebi:15756	1.0
+TECR_HUMAN	1.0
+chebi:50570	1.0
 chebi:65131	1.0
 chebi:80386	1.0
-chebi:15756	1.0
+chebi:18359	1.0

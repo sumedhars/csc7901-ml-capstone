@@ -1,6 +1,6 @@
 NODEID	prize
-chebi:15533	1.0
-chebi:27648	1.0
-PPT1_HUMAN	1.0
 chebi:15525	1.0
+PPT1_HUMAN	1.0
+chebi:27648	1.0
 THIM_HUMAN	1.0
+chebi:15533	1.0

@@ -1,9 +1,9 @@
 NODEID	prize
-PANK4_HUMAN	1.0
-chebi:18261	1.0
-chebi:46905	1.0
-ADPPT_HUMAN	1.0
-chebi:17561	1.0
 chebi:17985	1.0
 chebi:15769	1.0
+chebi:46905	1.0
+PANK4_HUMAN	1.0
+chebi:18261	1.0
+ADPPT_HUMAN	1.0
+chebi:17561	1.0
 chebi:16134	1.0

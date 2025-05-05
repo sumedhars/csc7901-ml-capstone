@@ -1,0 +1,8 @@
+NODEID	prize
+chebi:29157	1.0
+chebi:29172	1.0
+chebi:17196	1.0
+SYCM_HUMAN	1.0
+chebi:29152	1.0
+chebi:16015	1.0
+chebi:17561	1.0

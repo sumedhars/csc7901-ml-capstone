@@ -1,8 +1,8 @@
 NODEID	prize
-chebi:17616	1.0
-chebi:17984	1.0
-DHRS3_HUMAN	1.0
-chebi:17898	1.0
 chebi:16254	1.0
 AWAT2_HUMAN	1.0
+DHRS3_HUMAN	1.0
+chebi:17898	1.0
 chebi:78273	1.0
+chebi:17616	1.0
+chebi:17984	1.0

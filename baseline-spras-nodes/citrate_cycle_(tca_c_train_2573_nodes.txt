@@ -1,9 +1,0 @@
-NODEID	prize
-chebi:80403	1.0
-ODO1_HUMAN	1.0
-chebi:18012	1.0
-chebi:9532	1.0
-IDH3G_HUMAN	1.0
-ODO2_HUMAN	1.0
-chebi:15380	1.0
-chebi:16509	1.0

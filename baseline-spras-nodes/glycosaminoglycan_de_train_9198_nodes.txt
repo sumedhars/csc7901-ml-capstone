@@ -1,7 +1,7 @@
 NODEID	prize
+chebi:65144	1.0
 chebi:65142	1.0
 chebi:63852	1.0
-chebi:65144	1.0
 GNS_HUMAN	1.0
-ANAG_HUMAN	1.0
 chebi:65143	1.0
+ANAG_HUMAN	1.0

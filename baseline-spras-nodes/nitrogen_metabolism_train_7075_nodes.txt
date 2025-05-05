@@ -1,6 +1,6 @@
 NODEID	prize
 ASNS_HUMAN	1.0
-chebi:33704	1.0
 chebi:16027	1.0
 DLDH_HUMAN	1.0
 HUTH_HUMAN	1.0
+chebi:33704	1.0

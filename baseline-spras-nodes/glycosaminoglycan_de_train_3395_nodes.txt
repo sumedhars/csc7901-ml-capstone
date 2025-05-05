@@ -1,6 +1,6 @@
 NODEID	prize
-ARSB_HUMAN	1.0
 BGAL_HUMAN	1.0
-chebi:63846	1.0
+ARSB_HUMAN	1.0
 chebi:63855	1.0
 chebi:63850	1.0
+chebi:63846	1.0

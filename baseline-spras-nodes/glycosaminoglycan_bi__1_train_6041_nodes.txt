@@ -1,0 +1,5 @@
+NODEID	prize
+chebi:16264	1.0
+chebi:65140	1.0
+chebi:16082	1.0
+XYLT1_HUMAN	1.0

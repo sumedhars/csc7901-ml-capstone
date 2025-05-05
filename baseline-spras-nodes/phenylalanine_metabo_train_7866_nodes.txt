@@ -1,7 +1,7 @@
 NODEID	prize
-chebi:17295	1.0
-PRDX6_HUMAN	1.0
-chebi:18397	1.0
-PH4H_HUMAN	1.0
 chebi:16562	1.0
+PH4H_HUMAN	1.0
+chebi:18397	1.0
+PRDX6_HUMAN	1.0
 chebi:16134	1.0
+chebi:17295	1.0

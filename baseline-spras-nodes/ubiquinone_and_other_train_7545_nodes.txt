@@ -1,4 +1,4 @@
 NODEID	prize
-COQ3_HUMAN	1.0
 chebi:16389	1.0
 chebi:81185	1.0
+COQ3_HUMAN	1.0

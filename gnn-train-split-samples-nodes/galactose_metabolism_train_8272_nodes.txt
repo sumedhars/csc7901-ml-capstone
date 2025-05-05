@@ -1,9 +1,9 @@
 NODEID	prize
+chebi:16634	1.0
 PGM2_HUMAN	1.0
 LPH_HUMAN	1.0
-chebi:16634	1.0
 ADPGK_HUMAN	1.0
-chebi:17677	1.0
-chebi:17164	1.0
-chebi:4250	1.0
 HKDC1_HUMAN	1.0
+chebi:17677	1.0
+chebi:4250	1.0
+chebi:17164	1.0

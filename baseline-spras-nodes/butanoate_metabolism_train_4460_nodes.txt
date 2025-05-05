@@ -1,6 +1,6 @@
 NODEID	prize
 ACSM5_HUMAN	1.0
-chebi:15346	1.0
 chebi:15345	1.0
 chebi:15741	1.0
+chebi:15346	1.0
 ECHP_HUMAN	1.0

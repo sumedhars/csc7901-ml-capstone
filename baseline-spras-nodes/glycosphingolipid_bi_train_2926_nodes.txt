@@ -1,5 +1,5 @@
 NODEID	prize
+chebi:62571	1.0
 SIA4A_HUMAN	1.0
 chebi:17659	1.0
 chebi:16556	1.0
-chebi:62571	1.0

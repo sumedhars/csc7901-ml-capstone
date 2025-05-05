@@ -1,6 +1,6 @@
 NODEID	prize
 CHSTB_HUMAN	1.0
+chebi:17709	1.0
 chebi:17980	1.0
 chebi:16137	1.0
-chebi:17709	1.0
 chebi:29281	1.0

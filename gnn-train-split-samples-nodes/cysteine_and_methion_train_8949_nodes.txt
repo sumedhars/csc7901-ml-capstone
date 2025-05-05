@@ -1,7 +1,7 @@
 NODEID	prize
-chebi:50604	1.0
+CGL_HUMAN	1.0
+chebi:17482	1.0
+ENOPH1	1.0
 CBS_HUMAN	1.0
 chebi:33704	1.0
-chebi:17482	1.0
-CGL_HUMAN	1.0
-ENOPH1	1.0
+chebi:50604	1.0

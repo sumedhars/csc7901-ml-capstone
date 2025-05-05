@@ -1,3 +1,3 @@
 NODEID	prize
-chebi:63851	1.0
 BGAL_HUMAN	1.0
+chebi:63851	1.0

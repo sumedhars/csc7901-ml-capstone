@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:81184	1.0
 chebi:30915	1.0
-AATC_HUMAN	1.0
 chebi:81185	1.0
+chebi:81184	1.0
+AATC_HUMAN	1.0

@@ -1,5 +1,5 @@
 NODEID	prize
 DHDDS_HUMAN	1.0
-chebi:16584	1.0
 chebi:26078	1.0
 chebi:15422	1.0
+chebi:16584	1.0

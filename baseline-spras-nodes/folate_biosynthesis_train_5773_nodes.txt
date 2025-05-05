@@ -1,8 +1,8 @@
 NODEID	prize
-PPBI_HUMAN	1.0
-chebi:15996	1.0
 GCH1_HUMAN	1.0
-chebi:30751	1.0
+chebi:15996	1.0
 chebi:27985	1.0
+chebi:30751	1.0
 chebi:18372	1.0
 MOCS1_HUMAN	1.0
+PPBI_HUMAN	1.0

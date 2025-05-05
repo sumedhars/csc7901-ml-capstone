@@ -1,4 +1,4 @@
 NODEID	prize
-chebi:16082	1.0
 B3GA2_HUMAN	1.0
+chebi:16082	1.0
 chebi:17659	1.0

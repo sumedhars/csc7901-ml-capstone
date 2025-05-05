@@ -1,8 +1,8 @@
 NODEID	prize
-chebi:17665	1.0
-G6PE_HUMAN	1.0
 TALDO_HUMAN	1.0
+chebi:17363	1.0
 chebi:48928	1.0
 chebi:17719	1.0
+G6PE_HUMAN	1.0
+chebi:17665	1.0
 chebi:48153	1.0
-chebi:17363	1.0

@@ -1,6 +1,6 @@
 NODEID	prize
+chebi:15525	1.0
+chebi:1642	1.0
+chebi:326	1.0
 SAST_HUMAN	1.0
 ELOV2_HUMAN	1.0
-chebi:1642	1.0
-chebi:15525	1.0
-chebi:326	1.0

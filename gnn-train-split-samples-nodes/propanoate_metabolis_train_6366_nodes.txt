@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:27976	1.0
-chebi:16958	1.0
 AL3A2_HUMAN	1.0
+chebi:16958	1.0
 GABT_HUMAN	1.0
+chebi:27976	1.0

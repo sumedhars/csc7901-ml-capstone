@@ -1,8 +1,8 @@
 NODEID	prize
-chebi:16208	1.0
-chebi:21260	1.0
-chebi:30915	1.0
-chebi:17561	1.0
-chebi:15641	1.0
-BHMT1_HUMAN	1.0
 ATTY_HUMAN	1.0
+chebi:30915	1.0
+chebi:21260	1.0
+chebi:15641	1.0
+chebi:16208	1.0
+chebi:17561	1.0
+BHMT1_HUMAN	1.0

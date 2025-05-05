@@ -1,5 +1,5 @@
 NODEID	prize
-chebi:17544	1.0
-chebi:1637	1.0
-ACACA_HUMAN	1.0
 chebi:325	1.0
+chebi:1637	1.0
+chebi:17544	1.0
+ACACA_HUMAN	1.0

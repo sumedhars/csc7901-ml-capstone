@@ -1,5 +1,5 @@
 NODEID	prize
 chebi:30915	1.0
-chebi:16015	1.0
 SUCB2_HUMAN	1.0
 HIBCH_HUMAN	1.0
+chebi:16015	1.0

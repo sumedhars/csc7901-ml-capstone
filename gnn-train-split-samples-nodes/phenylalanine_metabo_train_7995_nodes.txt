@@ -1,7 +1,7 @@
 NODEID	prize
-chebi:17295	1.0
+chebi:16562	1.0
 AOC3_HUMAN	1.0
 OXLA_HUMAN	1.0
-HPPD_HUMAN	1.0
-chebi:16562	1.0
 chebi:43120	1.0
+HPPD_HUMAN	1.0
+chebi:17295	1.0

@@ -1,7 +1,7 @@
 NODEID	prize
-chebi:15517	1.0
 chebi:16027	1.0
 ACADS_HUMAN	1.0
 chebi:15346	1.0
-chebi:36926	1.0
 chebi:29888	1.0
+chebi:15517	1.0
+chebi:36926	1.0

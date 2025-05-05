@@ -1,0 +1,13 @@
+NODEID	prize
+ECHM_HUMAN	1.0
+chebi:80222	1.0
+chebi:80221	1.0
+MCCB_HUMAN	1.0
+chebi:27754	1.0
+ODO1_HUMAN	1.0
+ODBB_HUMAN	1.0
+chebi:80220	1.0
+chebi:16015	1.0
+chebi:80219	1.0
+chebi:15603	1.0
+chebi:15486	1.0

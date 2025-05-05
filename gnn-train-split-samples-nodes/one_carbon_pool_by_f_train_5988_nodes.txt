@@ -1,6 +1,6 @@
 NODEID	prize
-chebi:16643	1.0
 chebi:30751	1.0
 AL1L2_HUMAN	1.0
-C1TC_HUMAN	1.0
 chebi:15641	1.0
+C1TC_HUMAN	1.0
+chebi:16643	1.0

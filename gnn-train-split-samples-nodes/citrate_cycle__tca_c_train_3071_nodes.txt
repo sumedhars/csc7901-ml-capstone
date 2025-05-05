@@ -1,0 +1,11 @@
+NODEID	prize
+chebi:978	1.0
+chebi:30744	1.0
+IDHC_HUMAN	1.0
+chebi:30915	1.0
+chebi:30887	1.0
+chebi:80218	1.0
+chebi:1463	1.0
+chebi:32816	1.0
+chebi:17544	1.0
+chebi:44897	1.0

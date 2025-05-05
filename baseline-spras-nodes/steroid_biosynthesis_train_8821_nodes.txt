@@ -1,8 +1,8 @@
 NODEID	prize
 chebi:30109	1.0
-LICH_HUMAN	1.0
 chebi:80094	1.0
-chebi:17791	1.0
-chebi:29888	1.0
-chebi:35366	1.0
 chebi:15442	1.0
+chebi:29888	1.0
+LICH_HUMAN	1.0
+chebi:35366	1.0
+chebi:17791	1.0

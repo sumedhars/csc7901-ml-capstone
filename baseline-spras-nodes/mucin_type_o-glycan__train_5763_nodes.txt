@@ -1,5 +1,0 @@
-NODEID	prize
-chebi:16565	1.0
-C1GLT_HUMAN	1.0
-GCNT3_HUMAN	1.0
-chebi:17361	1.0
