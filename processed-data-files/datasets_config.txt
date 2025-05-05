@@ -1,182 +1,182 @@
 datasets:
     -
       label: alanine__a_1510
-      node_files: ["alanine,_aspartate_a_train_1510_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_1510_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_2535
-      node_files: ["alanine,_aspartate_a_train_2535_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_2535_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_3273
-      node_files: ["alanine,_aspartate_a_train_3273_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_3273_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_3711
-      node_files: ["alanine,_aspartate_a_train_3711_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_3711_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_3781
-      node_files: ["alanine,_aspartate_a_train_3781_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_3781_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_6130
-      node_files: ["alanine,_aspartate_a_train_6130_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_6130_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_6672
-      node_files: ["alanine,_aspartate_a_train_6672_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_6672_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_6727
-      node_files: ["alanine,_aspartate_a_train_6727_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_6727_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_8527
-      node_files: ["alanine,_aspartate_a_train_8527_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_8527_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alanine__a_9941
-      node_files: ["alanine,_aspartate_a_train_9941_nodes.txt"]
+      node_files: ["alanine__aspartate_a_train_9941_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_1854
-      node_files: ["alpha-linolenic_acid_train_1854_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_1854_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_2371
-      node_files: ["alpha-linolenic_acid_train_2371_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_2371_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_4263
-      node_files: ["alpha-linolenic_acid_train_4263_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_4263_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_5635
-      node_files: ["alpha-linolenic_acid_train_5635_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_5635_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_5783
-      node_files: ["alpha-linolenic_acid_train_5783_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_5783_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_6633
-      node_files: ["alpha-linolenic_acid_train_6633_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_6633_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_7454
-      node_files: ["alpha-linolenic_acid_train_7454_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_7454_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_9373
-      node_files: ["alpha-linolenic_acid_train_9373_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_9373_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: alpha_lino_9806
-      node_files: ["alpha-linolenic_acid_train_9806_nodes.txt"]
+      node_files: ["alpha_linolenic_acid_train_9806_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_1565
-      node_files: ["aminoacyl-trna_biosy_train_1565_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_1565_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_3815
-      node_files: ["aminoacyl-trna_biosy_train_3815_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_3815_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_3887
-      node_files: ["aminoacyl-trna_biosy_train_3887_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_3887_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_4856
-      node_files: ["aminoacyl-trna_biosy_train_4856_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_4856_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_5281
-      node_files: ["aminoacyl-trna_biosy_train_5281_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_5281_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_7666
-      node_files: ["aminoacyl-trna_biosy_train_7666_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_7666_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: aminoacyl_9784
-      node_files: ["aminoacyl-trna_biosy_train_9784_nodes.txt"]
+      node_files: ["aminoacyl_trna_biosy_train_9784_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -393,63 +393,63 @@ datasets:
       data_dir: "input"
     -
       label: beta_alani_2559
-      node_files: ["beta-alanine_metabol_train_2559_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_2559_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_2705
-      node_files: ["beta-alanine_metabol_train_2705_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_2705_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_3310
-      node_files: ["beta-alanine_metabol_train_3310_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_3310_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_7014
-      node_files: ["beta-alanine_metabol_train_7014_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_7014_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_7183
-      node_files: ["beta-alanine_metabol_train_7183_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_7183_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_7581
-      node_files: ["beta-alanine_metabol_train_7581_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_7581_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_7864
-      node_files: ["beta-alanine_metabol_train_7864_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_7864_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_7979
-      node_files: ["beta-alanine_metabol_train_7979_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_7979_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: beta_alani_8672
-      node_files: ["beta-alanine_metabol_train_8672_nodes.txt"]
+      node_files: ["beta_alanine_metabol_train_8672_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -666,49 +666,49 @@ datasets:
       data_dir: "input"
     -
       label: citrate_cy_2573
-      node_files: ["citrate_cycle_(tca_c_train_2573_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_2573_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_3071
-      node_files: ["citrate_cycle_(tca_c_train_3071_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_3071_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_3195
-      node_files: ["citrate_cycle_(tca_c_train_3195_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_3195_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_5290
-      node_files: ["citrate_cycle_(tca_c_train_5290_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_5290_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_6943
-      node_files: ["citrate_cycle_(tca_c_train_6943_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_6943_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_8425
-      node_files: ["citrate_cycle_(tca_c_train_8425_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_8425_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: citrate_cy_8698
-      node_files: ["citrate_cycle_(tca_c_train_8698_nodes.txt"]
+      node_files: ["citrate_cycle__tca_c_train_8698_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -813,84 +813,84 @@ datasets:
       data_dir: "input"
     -
       label: drug_metab_3545
-      node_files: ["drug_metabolism_-_cy_train_3545_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_3545_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_4503
-      node_files: ["drug_metabolism_-_cy_train_4503_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_4503_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_6262
-      node_files: ["drug_metabolism_-_cy_train_6262_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_6262_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_7207
-      node_files: ["drug_metabolism_-_cy_train_7207_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_7207_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_7643
-      node_files: ["drug_metabolism_-_cy_train_7643_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_7643_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_7684
-      node_files: ["drug_metabolism_-_cy_train_7684_nodes.txt"]
+      node_files: ["drug_metabolism___cy_train_7684_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_1108
-      node_files: ["drug_metabolism_-_ot_train_1108_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_1108_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_1722
-      node_files: ["drug_metabolism_-_ot_train_1722_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_1722_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_5565
-      node_files: ["drug_metabolism_-_ot_train_5565_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_5565_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_6155
-      node_files: ["drug_metabolism_-_ot_train_6155_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_6155_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_6253
-      node_files: ["drug_metabolism_-_ot_train_6253_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_6253_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: drug_metab_8702
-      node_files: ["drug_metabolism_-_ot_train_8702_nodes.txt"]
+      node_files: ["drug_metabolism___ot_train_8702_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -1415,98 +1415,98 @@ datasets:
       data_dir: "input"
     -
       label: glyceropho_3243
-      node_files: ["glycerophospholipid__train_3243_nodes.txt"]
+      node_files: ["glycerophospholipid_train_3243_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glyceropho_3822
-      node_files: ["glycerophospholipid__train_3822_nodes.txt"]
+      node_files: ["glycerophospholipid_train_3822_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glyceropho_5031
-      node_files: ["glycerophospholipid__train_5031_nodes.txt"]
+      node_files: ["glycerophospholipid_train_5031_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glyceropho_6257
-      node_files: ["glycerophospholipid__train_6257_nodes.txt"]
+      node_files: ["glycerophospholipid_train_6257_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glyceropho_8627
-      node_files: ["glycerophospholipid__train_8627_nodes.txt"]
+      node_files: ["glycerophospholipid_train_8627_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glyceropho_9901
-      node_files: ["glycerophospholipid__train_9901_nodes.txt"]
+      node_files: ["glycerophospholipid_train_9901_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_1578
-      node_files: ["glycine,_serine_and__train_1578_nodes.txt"]
+      node_files: ["glycine__serine_and_train_1578_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_4766
-      node_files: ["glycine,_serine_and__train_4766_nodes.txt"]
+      node_files: ["glycine__serine_and_train_4766_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_6145
-      node_files: ["glycine,_serine_and__train_6145_nodes.txt"]
+      node_files: ["glycine__serine_and_train_6145_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_8019
-      node_files: ["glycine,_serine_and__train_8019_nodes.txt"]
+      node_files: ["glycine__serine_and_train_8019_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_8859
-      node_files: ["glycine,_serine_and__train_8859_nodes.txt"]
+      node_files: ["glycine__serine_and_train_8859_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_8905
-      node_files: ["glycine,_serine_and__train_8905_nodes.txt"]
+      node_files: ["glycine__serine_and_train_8905_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_9194
-      node_files: ["glycine,_serine_and__train_9194_nodes.txt"]
+      node_files: ["glycine__serine_and_train_9194_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: glycine__s_9687
-      node_files: ["glycine,_serine_and__train_9687_nodes.txt"]
+      node_files: ["glycine__serine_and_train_9687_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -1568,69 +1568,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: glycosamin_4029
-      node_files: ["glycosaminoglycan_bi_(1)_train_4029_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_4495
-      node_files: ["glycosaminoglycan_bi_(1)_train_4495_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_4603
-      node_files: ["glycosaminoglycan_bi_(1)_train_4603_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_5286
-      node_files: ["glycosaminoglycan_bi_(1)_train_5286_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_5476
-      node_files: ["glycosaminoglycan_bi_(1)_train_5476_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_6041
-      node_files: ["glycosaminoglycan_bi_(1)_train_6041_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_6364
-      node_files: ["glycosaminoglycan_bi_(1)_train_6364_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_6852
-      node_files: ["glycosaminoglycan_bi_(1)_train_6852_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosamin_7496
-      node_files: ["glycosaminoglycan_bi_(1)_train_7496_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: glycosamin_2241
       node_files: ["glycosaminoglycan_bi_train_2241_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -1673,6 +1610,69 @@ datasets:
       other_files: []
       data_dir: "input"
     -
+      label: glycosamin_4029
+      node_files: ["glycosaminoglycan_bi__1_train_4029_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_4495
+      node_files: ["glycosaminoglycan_bi__1_train_4495_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_4603
+      node_files: ["glycosaminoglycan_bi__1_train_4603_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_5286
+      node_files: ["glycosaminoglycan_bi__1_train_5286_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_5476
+      node_files: ["glycosaminoglycan_bi__1_train_5476_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_6041
+      node_files: ["glycosaminoglycan_bi__1_train_6041_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_6364
+      node_files: ["glycosaminoglycan_bi__1_train_6364_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_6852
+      node_files: ["glycosaminoglycan_bi__1_train_6852_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosamin_7496
+      node_files: ["glycosaminoglycan_bi__1_train_7496_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
       label: glycosamin_1711
       node_files: ["glycosaminoglycan_de_train_1711_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -1710,97 +1710,6 @@ datasets:
     -
       label: glycosamin_8470
       node_files: ["glycosaminoglycan_de_train_8470_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_1917
-      node_files: ["glycosphingolipid_bi_(1)_train_1917_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_1944
-      node_files: ["glycosphingolipid_bi_(1)_train_1944_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_3112
-      node_files: ["glycosphingolipid_bi_(1)_train_3112_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_4541
-      node_files: ["glycosphingolipid_bi_(1)_train_4541_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_6175
-      node_files: ["glycosphingolipid_bi_(1)_train_6175_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_9537
-      node_files: ["glycosphingolipid_bi_(1)_train_9537_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_1226
-      node_files: ["glycosphingolipid_bi_(2)_train_1226_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_3085
-      node_files: ["glycosphingolipid_bi_(2)_train_3085_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_4272
-      node_files: ["glycosphingolipid_bi_(2)_train_4272_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_4472
-      node_files: ["glycosphingolipid_bi_(2)_train_4472_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_6820
-      node_files: ["glycosphingolipid_bi_(2)_train_6820_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_7576
-      node_files: ["glycosphingolipid_bi_(2)_train_7576_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: glycosphin_9384
-      node_files: ["glycosphingolipid_bi_(2)_train_9384_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -1850,6 +1759,97 @@ datasets:
     -
       label: glycosphin_9168
       node_files: ["glycosphingolipid_bi_train_9168_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_1917
+      node_files: ["glycosphingolipid_bi__1_train_1917_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_1944
+      node_files: ["glycosphingolipid_bi__1_train_1944_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_3112
+      node_files: ["glycosphingolipid_bi__1_train_3112_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_4541
+      node_files: ["glycosphingolipid_bi__1_train_4541_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_6175
+      node_files: ["glycosphingolipid_bi__1_train_6175_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_9537
+      node_files: ["glycosphingolipid_bi__1_train_9537_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_1226
+      node_files: ["glycosphingolipid_bi__2_train_1226_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_3085
+      node_files: ["glycosphingolipid_bi__2_train_3085_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_4272
+      node_files: ["glycosphingolipid_bi__2_train_4272_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_4472
+      node_files: ["glycosphingolipid_bi__2_train_4472_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_6820
+      node_files: ["glycosphingolipid_bi__2_train_6820_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_7576
+      node_files: ["glycosphingolipid_bi__2_train_7576_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: glycosphin_9384
+      node_files: ["glycosphingolipid_bi__2_train_9384_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2276,105 +2276,49 @@ datasets:
       data_dir: "input"
     -
       label: mucin_type_1207
-      node_files: ["mucin_type_o-glycan__train_1207_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_1207_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_4957
-      node_files: ["mucin_type_o-glycan__train_4957_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_4957_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_5398
-      node_files: ["mucin_type_o-glycan__train_5398_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_5398_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_5726
-      node_files: ["mucin_type_o-glycan__train_5726_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_5726_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_7491
-      node_files: ["mucin_type_o-glycan__train_7491_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_7491_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_7529
-      node_files: ["mucin_type_o-glycan__train_7529_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_7529_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: mucin_type_8983
-      node_files: ["mucin_type_o-glycan__train_8983_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_1584
-      node_files: ["n-glycan_biosynthesi_train_1584_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_1885
-      node_files: ["n-glycan_biosynthesi_train_1885_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_2873
-      node_files: ["n-glycan_biosynthesi_train_2873_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_4637
-      node_files: ["n-glycan_biosynthesi_train_4637_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_4978
-      node_files: ["n-glycan_biosynthesi_train_4978_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_5411
-      node_files: ["n-glycan_biosynthesi_train_5411_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_8163
-      node_files: ["n-glycan_biosynthesi_train_8163_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: n_glycan_b_9661
-      node_files: ["n-glycan_biosynthesi_train_9661_nodes.txt"]
+      node_files: ["mucin_type_o_glycan_train_8983_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2485,6 +2429,62 @@ datasets:
       other_files: []
       data_dir: "input"
     -
+      label: n_glycan_b_1584
+      node_files: ["n_glycan_biosynthesi_train_1584_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_1885
+      node_files: ["n_glycan_biosynthesi_train_1885_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_2873
+      node_files: ["n_glycan_biosynthesi_train_2873_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_4637
+      node_files: ["n_glycan_biosynthesi_train_4637_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_4978
+      node_files: ["n_glycan_biosynthesi_train_4978_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_5411
+      node_files: ["n_glycan_biosynthesi_train_5411_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_8163
+      node_files: ["n_glycan_biosynthesi_train_8163_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: n_glycan_b_9661
+      node_files: ["n_glycan_biosynthesi_train_9661_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
       label: one_carbon_1293
       node_files: ["one_carbon_pool_by_f_train_1293_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -2549,49 +2549,49 @@ datasets:
       data_dir: "input"
     -
       label: other_type_1299
-      node_files: ["other_types_of_o-gly_train_1299_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_1299_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_2394
-      node_files: ["other_types_of_o-gly_train_2394_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_2394_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_2893
-      node_files: ["other_types_of_o-gly_train_2893_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_2893_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_6244
-      node_files: ["other_types_of_o-gly_train_6244_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_6244_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_6246
-      node_files: ["other_types_of_o-gly_train_6246_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_6246_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_8552
-      node_files: ["other_types_of_o-gly_train_8552_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_8552_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: other_type_9407
-      node_files: ["other_types_of_o-gly_train_9407_nodes.txt"]
+      node_files: ["other_types_of_o_gly_train_9407_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -2723,27 +2723,6 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: phenylalan_1487
-      node_files: ["phenylalanine,_tyros_train_1487_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_2296
-      node_files: ["phenylalanine,_tyros_train_2296_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: phenylalan_2724
-      node_files: ["phenylalanine,_tyros_train_2724_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: phenylalan_1899
       node_files: ["phenylalanine_metabo_train_1899_nodes.txt"]
       edge_files: ["union_ppi.txt"]
@@ -2795,6 +2774,27 @@ datasets:
     -
       label: phenylalan_9455
       node_files: ["phenylalanine_metabo_train_9455_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: phenylalan_1487
+      node_files: ["phenylalanine__tyros_train_1487_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: phenylalan_2296
+      node_files: ["phenylalanine__tyros_train_2296_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: phenylalan_2724
+      node_files: ["phenylalanine__tyros_train_2724_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
@@ -3829,120 +3829,120 @@ datasets:
       other_files: []
       data_dir: "input"
     -
-      label: valine__le_1008
-      node_files: ["valine,_leucine_and__(1)_train_1008_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_3551
-      node_files: ["valine,_leucine_and__(1)_train_3551_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_5467
-      node_files: ["valine,_leucine_and__(1)_train_5467_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_6589
-      node_files: ["valine,_leucine_and__(1)_train_6589_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_7923
-      node_files: ["valine,_leucine_and__(1)_train_7923_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_8676
-      node_files: ["valine,_leucine_and__(1)_train_8676_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_9079
-      node_files: ["valine,_leucine_and__(1)_train_9079_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_9534
-      node_files: ["valine,_leucine_and__(1)_train_9534_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
-      label: valine__le_9761
-      node_files: ["valine,_leucine_and__(1)_train_9761_nodes.txt"]
-      edge_files: ["union_ppi.txt"]
-      # Placeholder
-      other_files: []
-      data_dir: "input"
-    -
       label: valine__le_1385
-      node_files: ["valine,_leucine_and__train_1385_nodes.txt"]
+      node_files: ["valine__leucine_and_train_1385_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_1950
-      node_files: ["valine,_leucine_and__train_1950_nodes.txt"]
+      node_files: ["valine__leucine_and_train_1950_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_3704
-      node_files: ["valine,_leucine_and__train_3704_nodes.txt"]
+      node_files: ["valine__leucine_and_train_3704_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_4369
-      node_files: ["valine,_leucine_and__train_4369_nodes.txt"]
+      node_files: ["valine__leucine_and_train_4369_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_6172
-      node_files: ["valine,_leucine_and__train_6172_nodes.txt"]
+      node_files: ["valine__leucine_and_train_6172_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_7204
-      node_files: ["valine,_leucine_and__train_7204_nodes.txt"]
+      node_files: ["valine__leucine_and_train_7204_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_7495
-      node_files: ["valine,_leucine_and__train_7495_nodes.txt"]
+      node_files: ["valine__leucine_and_train_7495_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
       data_dir: "input"
     -
       label: valine__le_7776
-      node_files: ["valine,_leucine_and__train_7776_nodes.txt"]
+      node_files: ["valine__leucine_and_train_7776_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_1008
+      node_files: ["valine__leucine_and___1_train_1008_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_3551
+      node_files: ["valine__leucine_and___1_train_3551_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_5467
+      node_files: ["valine__leucine_and___1_train_5467_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_6589
+      node_files: ["valine__leucine_and___1_train_6589_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_7923
+      node_files: ["valine__leucine_and___1_train_7923_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_8676
+      node_files: ["valine__leucine_and___1_train_8676_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_9079
+      node_files: ["valine__leucine_and___1_train_9079_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_9534
+      node_files: ["valine__leucine_and___1_train_9534_nodes.txt"]
+      edge_files: ["union_ppi.txt"]
+      # Placeholder
+      other_files: []
+      data_dir: "input"
+    -
+      label: valine__le_9761
+      node_files: ["valine__leucine_and___1_train_9761_nodes.txt"]
       edge_files: ["union_ppi.txt"]
       # Placeholder
       other_files: []
