@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+ODPB_HUMAN	chebi:978	0.48148148148148145	U

@@ -1,0 +1,5 @@
+Node1	Node2	Frequency	Direction
+ST1A2_HUMAN	chebi:17985	0.5555555555555556	U
+chebi:17985	chebi:18318	0.5	U
+chebi:18318	chebi:26836	0.5	U
+chebi:26836	chebi:48854	0.5	U

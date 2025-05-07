@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+NTPCR_HUMAN	TPK1_HUMAN	0.5	U
