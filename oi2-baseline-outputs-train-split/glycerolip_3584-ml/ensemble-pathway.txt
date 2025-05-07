@@ -1,0 +1,6 @@
+Node1	Node2	Frequency	Direction
+chebi:15422	chebi:16975	0.6111111111111112	U
+chebi:16975	chebi:35759	0.6111111111111112	U
+TKFC_HUMAN	chebi:16016	0.5925925925925926	U
+chebi:15422	chebi:16108	0.5	U
+chebi:16016	chebi:16108	0.5	U

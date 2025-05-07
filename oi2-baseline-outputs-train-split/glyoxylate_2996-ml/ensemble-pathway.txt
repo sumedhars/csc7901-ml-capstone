@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+chebi:15539	chebi:17544	0.5555555555555556	U

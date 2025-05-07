@@ -1,0 +1,3 @@
+Node1	Node2	Frequency	Direction
+MCEE_HUMAN	chebi:15465	0.5555555555555556	U
+chebi:15380	chebi:15465	0.5555555555555556	U

@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+MDHC_HUMAN	chebi:30797	0.5555555555555556	U

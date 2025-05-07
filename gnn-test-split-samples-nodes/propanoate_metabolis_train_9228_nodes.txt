@@ -1,0 +1,6 @@
+NODEID	prize
+chebi:15351	1.0
+chebi:17544	1.0
+chebi:15380	1.0
+chebi:15422	1.0
+SUCB2_HUMAN	1.0

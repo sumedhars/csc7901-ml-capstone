@@ -1,0 +1,6 @@
+NODEID	prize
+chebi:16503	1.0
+chebi:2485	1.0
+chebi:16027	1.0
+PAPS2_HUMAN	1.0
+chebi:16633	1.0

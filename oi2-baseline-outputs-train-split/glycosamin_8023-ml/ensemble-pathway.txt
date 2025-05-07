@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+XYLT2_HUMAN	chebi:8572	0.5	U

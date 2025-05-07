@@ -1,0 +1,8 @@
+NODEID	prize
+ENPP1_HUMAN	1.0
+chebi:16753	1.0
+PANK3_HUMAN	1.0
+chebi:16139	1.0
+chebi:16526	1.0
+chebi:16958	1.0
+chebi:18359	1.0

@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:80403	1.0
+IDH3B_HUMAN	1.0
+IDHP_HUMAN	1.0
+chebi:15741	1.0
+chebi:30887	1.0
+chebi:15351	1.0
+chebi:7815	1.0
+chebi:80219	1.0
+SUCA_HUMAN	1.0

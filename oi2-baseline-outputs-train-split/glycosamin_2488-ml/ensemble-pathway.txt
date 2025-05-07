@@ -1,0 +1,2 @@
+Node1	Node2	Frequency	Direction
+BGAL_HUMAN	chebi:63851	0.5	U

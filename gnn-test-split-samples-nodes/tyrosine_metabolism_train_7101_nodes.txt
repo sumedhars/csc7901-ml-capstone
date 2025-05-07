@@ -1,0 +1,13 @@
+NODEID	prize
+TY3H_HUMAN	1.0
+chebi:1387	1.0
+chebi:17895	1.0
+AOC2_HUMAN	1.0
+chebi:27932	1.0
+HGD_HUMAN	1.0
+chebi:1576	1.0
+chebi:27637	1.0
+chebi:20106	1.0
+chebi:6277	1.0
+chebi:43120	1.0
+HPPD_HUMAN	1.0

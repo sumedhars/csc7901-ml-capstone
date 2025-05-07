@@ -1,0 +1,10 @@
+NODEID	prize
+chebi:15525	1.0
+chebi:80386	1.0
+OXSM_HUMAN	1.0
+chebi:1637	1.0
+chebi:5697	1.0
+ELOV2_HUMAN	1.0
+chebi:16526	1.0
+chebi:3247	1.0
+chebi:18359	1.0
